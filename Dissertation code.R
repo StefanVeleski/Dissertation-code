@@ -14,6 +14,5 @@ ggbetweenstats(data = gender_df,
     scale_y_log10()
 
 
-####Publishers code####
 
 
