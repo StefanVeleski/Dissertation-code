@@ -13,20 +13,39 @@ gender_plot <- ggbetweenstats(data = Main_dataset,
                ylab = "Number of Ratings (log)") +
     scale_y_log10()
 gender_plot
-
 ####Correlation of Goodreads and Open Syllabus data####
 library(ggpubr)
 
 options(scipen=10000)
-names(Main_dataset)
-str(Main_dataset)
 
+Main_dataset$`Bestseller?` <- as.factor(Main_dataset$`Bestseller?`)
 corr_plot <- ggscatter(Main_dataset, x = "Ratings", y = "Syllabi",
-                       color = "#00AFBB",
                        add = "reg.line", conf.int = TRUE,
+                       color ='dimgray',
                        xscale = "log10",
                        yscale = "log10",
                        cor.coef = TRUE, cor.method = "pearson",
                        title = "Correlation plot (full dataset)",
-                       xlab = "Number of Goodreads ratings (log)", ylab = "Open Syllabus")
+                       xlab = "Number of Goodreads ratings (log)", 
+                       ylab = "Open Syllabus")
 corr_plot 
+
+####Correlation of Goodreads and Open Syllabus data faceted by bestseller status####
+
+options(scipen=10000)
+
+Main_dataset$`Bestseller?` <- as.factor(Main_dataset$`Bestseller?`)
+corr_plot2 <- ggscatter(Main_dataset, x = "Ratings", y = "Syllabi",
+                       add = "reg.line", conf.int = TRUE,
+                       color = "Bestseller?",
+                       xscale = "log10",
+                       yscale = "log10",
+                       cor.coef = TRUE, cor.method = "pearson",
+                       title = "Correlation plot (full dataset)",
+                       xlab = "Number of Goodreads ratings (log)", 
+                       ylab = "Open Syllabus") +
+    facet_wrap(~ Main_dataset$`Bestseller?`, ncol=1, strip.position = "left")
+corr_plot2
+
+      
+      
