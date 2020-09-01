@@ -25,7 +25,7 @@ corr_plot <- ggscatter(Main_dataset, x = "Ratings", y = "Syllabi",
                        xscale = "log10",
                        yscale = "log10",
                        cor.coef = TRUE, cor.method = "pearson",
-                       title = "Correlation plot (full dataset)",
+                       title = "Correlation of Open Syllabus and Goodreads data",
                        xlab = "Number of Goodreads ratings (log)", 
                        ylab = "Open Syllabus")
 corr_plot 
@@ -41,11 +41,13 @@ corr_plot2 <- ggscatter(Main_dataset, x = "Ratings", y = "Syllabi",
                        xscale = "log10",
                        yscale = "log10",
                        cor.coef = TRUE, cor.method = "pearson",
-                       title = "Correlation plot (full dataset)",
+                       title = "Correlation of Open Syllabus and Goodreads data (faceted)",
                        xlab = "Number of Goodreads ratings (log)", 
                        ylab = "Open Syllabus") +
     facet_wrap(~ Main_dataset$`Bestseller?`, ncol=1, strip.position = "left")
 corr_plot2
 
-      
+####Combining these last two plots together####
+library(ggpubr)
+ggarrange(corr_plot, corr_plot2, ncol = 2, labels = c("1", "2"))
       
