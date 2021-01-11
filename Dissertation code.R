@@ -50,4 +50,52 @@ corr_plot2
 ####Combining these last two plots together####
 library(ggpubr)
 ggarrange(corr_plot, corr_plot2, ncol = 2, labels = c("1", "2"))
-      
+
+####Creating the Sentiment_dataset1.csv file (CHR2020 conference)####
+library(syuzhet)
+library(stringr)
+
+filenames <- list.files("C:/Users/Stefan/Documents/GitHub/CHR2020-project/Text files", pattern="*.txt", full.names=TRUE)
+ldf <- lapply(filenames, get_text_as_string)
+
+#This line of code uses the syuzhet package to divide the novels into sentences
+sentences <- lapply(ldf, get_sentences)
+
+#This line extracts the sentiment of each sentence of the novels
+sentiment <- lapply(sentences, get_sentiment)
+
+#These lines calculate the mean sentiment of each novel and creates a dataframe
+mean_sentiment <- lapply(sentiment, mean)
+mean_sentiment_df1 <- as.data.frame(mean_sentiment)
+mean_sentiment_df2 <- as.data.frame(t(mean_sentiment_df1))
+
+#Exporting the .csv file
+write.csv(mean_sentiment_df2,"/Sentiment_dataset1.csv", row.names = TRUE)
+
+####Agency and Emotion conference####
+ldf.char <- numeric(846)
+for(i in 1:846){
+    ldf.char[i] <- as.character(ldf[i])
+}
+
+#Now I will need to populate a dataset with these emotion terms. 
+nrc_dataset <- numeric(846)
+for(i in 1:846){
+    nrc_dataset[i] <- data.frame(t(get_nrc_sentiment(ldf.char[i])))
+}
+
+class(nrc_dataset)
+
+#Exporting the .csv file with the nrc sentiment values
+write.csv(nrc_dataset, "C:/Users/Stefan/Documents/nrc_dataset.csv", row.names = TRUE)
+
+#Number of words for each novel!
+num.words <- numeric(846)
+for(i in 1:846){
+    num.words[i] <- data.frame(t(lengths(strsplit(ldf.char[i], "\\W+"))))
+}
+
+write.csv(num.words, "C:/Users/Stefan/Documents/num.words.csv", row.names = TRUE)
+
+sample1 <- 1:846
+sample2 <- sample(sample1, 282, replace = FALSE, prob = NULL)
