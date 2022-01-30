@@ -6,6 +6,10 @@ library(readr)
 
 Sentiment_dataset1 <- read_csv("Datasets and auxiliary files/Sentiment_dataset1.csv")
 
+# Calculating the combined mean sentiment for the full dataset
+
+mean(Sentiment_dataset1$Sentiment)
+
 # Creating the plots
 
 library(ggpubr)
