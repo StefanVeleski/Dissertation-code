@@ -5,7 +5,7 @@
 library(readr)
 Main_dataset <- read_csv("Datasets and auxiliary files/Main dataset.csv")
 
-# Creating the plotsw
+# Creating the plots
 
 library(ggpubr)
 library(tidyverse)
