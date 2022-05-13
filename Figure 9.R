@@ -3,7 +3,7 @@
 # Loading in the data
 
 library(readr)
-box_plot_data1 <- read_csv("Datasets and auxiliary files/sentiment_MATTR_dataset.csv")
+sentiment_MATTR_dataset <- read_csv("Datasets and auxiliary files/sentiment_MATTR.csv")
 
 # Check distribution of variables
 
