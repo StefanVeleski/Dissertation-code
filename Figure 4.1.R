@@ -30,4 +30,4 @@ ggbetweenstats(
 
 # Exporting the plot
 
-ggsave(file = "Raw plots/Figure 5.jpg", dpi = 300)
+ggsave(file = "Raw plots/Figure 4.1.jpg", dpi = 300)

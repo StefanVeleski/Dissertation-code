@@ -25,4 +25,4 @@ corr_plot
 
 # Exporting the plot
 
-ggsave(file = "Raw plots/Figure 3.jpg", dpi = 300)
+ggsave(file = "Raw plots/Figure 2.2.jpg", dpi = 300)

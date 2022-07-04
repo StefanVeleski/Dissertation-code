@@ -3,7 +3,7 @@
 # Loading in the data (for more information about the data collection process, see the CHR2020 repository)
 library(ggExtra)
 library(ggrepel)
-
+library(readr)
 Dracula_adaptations <- read_csv("Datasets and auxiliary files/Dracula adaptations.csv")
 
 # Labeling several noteworthy adaptations
@@ -36,4 +36,4 @@ plot2
 
 # Exporting the plot
 
-ggsave(file = "Raw plots/Figure 11 (raw).pdf", plot = plot2, dpi = 300)
+ggsave(file = "Raw plots/Figure 7.2 (raw).pdf", plot = plot2, dpi = 300)

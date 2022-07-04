@@ -72,4 +72,4 @@ composite_plot
 
 # Exporting the plot
 
-ggsave(file = "Raw plots/Figure 10 (raw).pdf", dpi = 300)
+ggsave(file = "Raw plots/Figure 7.1 (raw).pdf", dpi = 300)

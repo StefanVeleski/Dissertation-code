@@ -67,49 +67,24 @@ ggarrange(A, B, C, D,
   ncol = 2, nrow = 2
 )
 
-# Checking to see whether the distributions are truly power laws
-
-# The test in the code below is based on Clauset et al. where everything below p ≤ 0.1 is ruled out to be a power law distribution.
+#### Checking to see whether the distributions are truly power laws ####
+ 
+# The test in the code below is based on Clauset et al. (2009) where everything below p ≤ 0.1 is ruled out from being a power law distribution.
 
 library(poweRlaw)
+
+# The following code performs the analysis
+
 m_m1 = displ$new(Main_dataset$Syllabi)
 bs_p1 = bootstrap_p(m_m1, no_of_sims = 1000, threads = 12)
 
-# p = 0 of the Open Syllabus data, as it is in fact too extreme for a power law distribution (see dissertation for additional write up). 
+# p = 0 of the Open Syllabus data, as it is in fact too extreme for a power law distribution (see dissertation for additional write-up). 
 
 m_m2 = displ$new(Main_dataset$Ratings)
 bs_p2 = bootstrap_p(m_m2, no_of_sims = 1000, threads = 12)
 
-# p = 0.314 for the Goodreads data, meaning that it can be explained as a power law distribution.
-
-# The following code generates visualizations of how these distributions fare against a simulated log-normal and power law distribution. They are not included in the dissertation.
-
-# Goodreads data
-
-m1 = displ$new(Main_dataset$Ratings)
-m1$setXmin(estimate_xmin(m1))
-
-m2 = dislnorm$new(Main_dataset$Ratings)
-m2$setXmin(m1$getXmin())
-m2$setPars(estimate_pars(m2))
-
-plot(m2, ylab = "CDF")
-lines(m1)
-lines(m2, col = 2, lty = 2)
-
-# Open Syllabus data
-
-m3 = displ$new(Main_dataset$Syllabi)
-m3$setXmin(estimate_xmin(m3))
-
-m4 = dislnorm$new(Main_dataset$Syllabi)
-m4$setXmin(m3$getXmin())
-m4$setPars(estimate_pars(m4))
-
-plot(m4, ylab = "CDF")
-lines(m3)
-lines(m4, col = 2, lty = 2)
+# p = 0.79 for the Goodreads data, meaning that it can be explained as a power law distribution.
 
 # Saving the plot
 
-ggsave(file = "Raw plots/Figure 1 (raw).pdf", dpi = 300)
+ggsave(file = "Raw plots/Figure 2.1 (raw).pdf", dpi = 300)

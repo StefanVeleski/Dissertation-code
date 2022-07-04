@@ -43,4 +43,4 @@ gender_plot
 
 # Exporting the plot
 
-ggsave(file = "Raw plots/Figure 2.jpg", dpi = 300)
+ggsave(file = "Raw plots/Figure 5.1.jpg", dpi = 300)

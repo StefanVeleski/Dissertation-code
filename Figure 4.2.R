@@ -49,4 +49,4 @@ ggarrange(E, F,
 
 # Exporting the plot
 
-ggsave(file = "Raw plots/Figure 6 (raw).pdf", dpi = 300, width = 2250, height = 3131, units = "px")
+ggsave(file = "Raw plots/Figure 4.2 (raw).pdf", dpi = 300, width = 2250, height = 3131, units = "px")
