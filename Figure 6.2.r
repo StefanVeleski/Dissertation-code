@@ -1,6 +1,7 @@
 #### Film adaptations of Dracula and the Beetle####
 
-# Loading in the data (for more information about the data collection process, see the CHR2020 repository)
+# Loading in the data (for more information about the data collection process, see the CHR2020 repository on my Github profile)
+
 library(ggExtra)
 library(ggrepel)
 library(readr)
@@ -36,4 +37,4 @@ plot2
 
 # Exporting the plot
 
-ggsave(file = "Raw plots/Figure 7.2 (raw).pdf", plot = plot2, dpi = 300)
+ggsave(file = "Raw plots/Figure 6.2 (raw).pdf", plot = plot2, dpi = 300)

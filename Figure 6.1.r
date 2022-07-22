@@ -1,4 +1,4 @@
-#### Differences in populaity and prestige between ####
+#### Differences in popularity and prestige between Dracula and The Beetle ####
 
 # Loading in the data (for more information about the data collection process, see the CHR2020 repository)
 
@@ -72,4 +72,4 @@ composite_plot
 
 # Exporting the plot
 
-ggsave(file = "Raw plots/Figure 7.1 (raw).pdf", dpi = 300)
+ggsave(file = "Raw plots/Figure 6.1 (raw).pdf", dpi = 300)
