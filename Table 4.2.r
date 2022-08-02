@@ -1,6 +1,6 @@
 #### Sentiment and Goodreads correlation plots ####
 
-# Due to the nature of the results and the sheer amount of data, I have opted to put the results together in a table instead of showing them in separate plots. As ggpubr does not have any other ways of reporting correlation results in the LaTeX format, I will make the relevant plots, extract the correlation information, and manually insert it in a LaTeX table. 
+# Due to the nature of the results and the sheer amount of data, I have opted to put the results together in a table instead of showing them in separate plots. As ggpubr does not have any other ways of reporting correlation results in the LaTeX format, I made the relevant plots, extracted the correlation information, and manually inserted it in a LaTeX table. 
 
 # MATTR and present day popularity correlation plot
 library(tidyverse)
