@@ -3,7 +3,7 @@
 library(readr)
 library(tidyverse)
 library(ggpubr)
-# The parts of this sript that are commented out are leftovers from a previous draft of the code, where the resulting figure was supposed to go in Subchapter 4.2, instead of Subchapter 4.1. As some of this information is repeated in Tables 4.1 and 4.2, I decided to just keep the comparison boxplot of sentiment. After all, this information, related to the secondary hypothesis of Subchapter 4.1, was lacking in the original article. 
+# The parts of this sript that are commented out are leftovers from a previous draft of the code, where the resulting figure was supposed to go in Subchapter 4.2, instead of Subchapter 4.1. As some of this information is repeated in Tables 4.1 and 4.2, I decided to just keep the comparison boxplot of sentiment. After all, this information, related to the secondary hypothesis of Subchapter 4.1, was lacking in the original article.
 
 # sentiment_flesch <- read_csv("Datasets and auxiliary files/sentiment_flesch.csv")
 Sentiment_dataset1 <- read_csv("Datasets and auxiliary files/Sentiment_dataset1.csv")
