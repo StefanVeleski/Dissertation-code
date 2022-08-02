@@ -1,4 +1,4 @@
-Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,Broadview Edition,Gutenberg ID,Publisher,Goodreads page?,Average Rating,Ratings,Rank1,URL,Bestseller?,Bestseller ranking,Number of bestseller lists,Duration,Syllabi,Rank2
+ï»¿Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,Broadview Edition,Gutenberg ID,Publisher,Goodreads page?,Average Rating,Ratings,Rank1,URL,Bestseller?,Bestseller ranking,Number of bestseller lists,Duration,Syllabi,Rank2
 1891,Oscar Wilde,M,The Picture of Dorian Gray,Y,Y,Y,174,"Ward, Lock",Y,4.08,"919,179",1,https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray,N,,,,1538,2
 1897,Bram Stoker,M,Dracula,Y,Y,Y,345,Archibald Constable,Y,4,"897,395",2,https://www.goodreads.com/book/show/17245.Dracula https://www.goodreads.com/book/show/17245.Dracula,N,,,,1857,1
 1895,H. G. Wells,M,The Time Machine: An Invention,Y,Y,Y,35,William Heinemann,Y,3.89,"395,089",3,https://www.goodreads.com/book/show/2493.The_Time_Machine https://www.goodreads.com/book/show/2493.The_Time_Machine,N,,,,762,3
@@ -14,7 +14,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1897,Rudyard Kipling,M,Captains Courageous: A Story of the Grand Banks,Y,N,N,2186,Macmillan,Y,3.88,"19,229",13,https://www.goodreads.com/book/show/34057.Captains_Courageous https://www.goodreads.com/book/show/34057.Captains_Courageous,N,,,,15,38
 1894,Anthony Hope,M,The Prisoner of Zenda: Being the History of Three Months in the Life of an English Gentleman,N,Y,N,95,Arrowsmith,Y,3.86,"17,494",14,https://www.goodreads.com/book/show/54492.The_Prisoner_of_Zenda https://www.goodreads.com/book/show/54492.The_Prisoner_of_Zenda,Y,,,,14,40
 1892,George Grossmith,M,The Diary of a Nobody,N,Y,Y,1026,Arrowsmith,Y,3.71,"12,574",15,https://www.goodreads.com/book/show/535856.The_Diary_of_a_Nobody https://www.goodreads.com/book/show/535856.The_Diary_of_a_Nobody,N,,,,43,24
-1901,H. G.  Wells,M,The First Men in the Moon,N,Y,N,1013,George Newnes,Y,3.68,"12,417",16,https://www.goodreads.com/book/show/536478.The_First_Men_in_the_Moon https://www.goodreads.com/book/show/536478.The_First_Men_in_the_Moon,N,,,,20,31
+1901,H. G. Wells,M,The First Men in the Moon,N,Y,N,1013,George Newnes,Y,3.68,"12,417",16,https://www.goodreads.com/book/show/536478.The_First_Men_in_the_Moon https://www.goodreads.com/book/show/536478.The_First_Men_in_the_Moon,N,,,,20,31
 1897,Ethel Lilian Voynich,F,The Gadfly,N,N,N,3431,William Heinemann,Y,4.17,"8,400",17,https://www.goodreads.com/book/show/68187.The_Gadfly https://www.goodreads.com/book/show/68187.The_Gadfly,N,,,,0,1986
 1895,Stephen Crane,M,Maggie: A Girl of the Streets,N,N,N,447,William Heinemann,Y,3.35,"7,129",18,https://www.goodreads.com/book/show/208977.Maggie https://www.goodreads.com/book/show/208977.Maggie,N,,,,557,7
 1891,George Gissing,M,New Grub Street: A Novel,Y,Y,Y,1709,"Smith, Elder",Y,3.74,"5,509",19,https://www.goodreads.com/book/show/782519.New_Grub_Street https://www.goodreads.com/book/show/782519.New_Grub_Street,N,,,,99,15
@@ -40,7 +40,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1895,Joseph Conrad,M,Almayer's Folly: A Story of an Eastern River,N,N,N,720,T. Fisher Unwin,Y,3.56,"1,240",39,https://www.goodreads.com/book/show/398197.Almayer_s_Folly https://www.goodreads.com/book/show/398197.Almayer_s_Folly,N,,,,20,30
 1897,Henry James,M,The Spoils of Poynton,Y,Y,N,33325,William Heinemann,Y,3.7,"1,225",40,https://www.goodreads.com/book/show/193772.The_Spoils_of_Poynton https://www.goodreads.com/book/show/193772.The_Spoils_of_Poynton,N,,,,44,23
 1893,Robert Louis Stevenson,M,"Catriona: A Sequel to Kidnapped, Being Memoirs of the Further Adventures of David Balfour",N,N,N,589,Cassell,Y,3.63,"1,131",41,https://www.goodreads.com/book/show/27707848-catriona https://www.goodreads.com/book/show/27707848-catriona,Y,,,,0,3831
-1901,M.P. Shiel,M,The Purple Cloud,N,N,N,11229,Chatto and Windus,Y,3.49,"1,087",42,https://www.goodreads.com/book/show/938965.The_Purple_Cloud_by_M_P_Shiel_Fiction_Literary_Horror https://www.goodreads.com/book/show/938965.The_Purple_Cloud_by_M_P_Shiel_Fiction_Literary_Horror,N,,,,0,4164
+1901,M. P. Shiel,M,The Purple Cloud,N,N,N,11229,Chatto and Windus,Y,3.49,"1,087",42,https://www.goodreads.com/book/show/938965.The_Purple_Cloud_by_M_P_Shiel_Fiction_Literary_Horror https://www.goodreads.com/book/show/938965.The_Purple_Cloud_by_M_P_Shiel_Fiction_Literary_Horror,N,,,,0,4164
 1893,George Alfred Henty,M,Beric the Briton: A Story of the Roman Invasion,N,N,N,7037,Blackie,Y,4.08,"1,080",43,https://www.goodreads.com/book/show/42944218-beric-the-briton https://www.goodreads.com/book/show/42944218-beric-the-briton,N,,,,0,5126
 1900,Kalman Mikszath,M,St.  Peter's Umbrella: A Novel,N,N,N,31945,Jarrold and Son,Y,3.69,"1,046",44,https://www.goodreads.com/book/show/37695178-st-peter-s-umbrella https://www.goodreads.com/book/show/37695178-st-peter-s-umbrella,N,,,,0,4228
 1894,George Du Maurier,M,Trilby,N,Y,Y,39858,"Osgood, McIlvaine",Y,3.32,"1,042",45,https://www.goodreads.com/book/show/24921659-svengali https://www.goodreads.com/book/show/24921659-svengali,Y,,,,57,22
@@ -199,9 +199,9 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1899,Guy Boothby,M,Dr. Nikola's Experiment,N,N,N,,Hodder and Stoughton,Y,3.38,37,198,https://www.goodreads.com/book/show/1925130.Dr_Nikola_s_Experiment https://www.goodreads.com/book/show/1925130.Dr_Nikola_s_Experiment,N,,,,0,4914
 1899,E. Phillips Oppenheim,M,Mr. Marx's Secret,N,N,N,39018,Simpkin,Y,3.97,37,199,https://www.goodreads.com/book/show/21840234-mr-marx-s-secret https://www.goodreads.com/book/show/21840234-mr-marx-s-secret,N,,,,0,5663
 1896,William Le Queux,M,The Great White Queen: A Tale of Treasure and Treason,N,N,N,25499,F. V. White,Y,3.49,37,200,https://www.goodreads.com/book/show/19054276-the-great-white-queen-a-tale-of-treasure-and-treason https://www.goodreads.com/book/show/19054276-the-great-white-queen-a-tale-of-treasure-and-treason,N,,,,0,3210
-1891,Grant Allen,M,What's Bred in the Bone: £1000 Prize Novel,N,N,N,6010,Tit-Bits Offices,Y,3.35,37,201,https://www.goodreads.com/book/show/265769.What_s_Bred_in_the_Bone https://www.goodreads.com/book/show/265769.What_s_Bred_in_the_Bone,N,,,,0,4936
+1891,Grant Allen,M,What's Bred in the Bone: Â£1000 Prize Novel,N,N,N,6010,Tit-Bits Offices,Y,3.35,37,201,https://www.goodreads.com/book/show/265769.What_s_Bred_in_the_Bone https://www.goodreads.com/book/show/265769.What_s_Bred_in_the_Bone,N,,,,0,4936
 1894,Edith Johnstone,F,A Sunless Heart,N,N,Y,,"Ward, Lock",Y,3.64,36,202,https://www.goodreads.com/book/show/4598704-a-sunless-heart https://www.goodreads.com/book/show/4598704-a-sunless-heart,N,,,,0,2439
-1895,Ménie Muriel Dowie,F,Gallia,N,N,N,,Methuen,Y,3.17,36,203,https://www.goodreads.com/book/show/1532646.Gallia https://www.goodreads.com/book/show/1532646.Gallia,N,,,,0,476
+1895,MÃ©nie Muriel Dowie,F,Gallia,N,N,N,,Methuen,Y,3.17,36,203,https://www.goodreads.com/book/show/1532646.Gallia https://www.goodreads.com/book/show/1532646.Gallia,N,,,,0,476
 1892,Emily Lawless,F,Grania: The Story of an Island,N,N,N,,"Smith, Elder",Y,4.03,36,204,https://www.goodreads.com/book/show/300989.Grania https://www.goodreads.com/book/show/300989.Grania,N,,,,2,83
 1896,Joseph Smith Fletcher,M,In the Days of Drake: Being the Adventures of Humphrey Salkeld,N,N,N,29304,Blackie,Y,3.58,36,205,https://www.goodreads.com/book/show/41174776-in-the-days-of-drake-joseph-smith-fletcher https://www.goodreads.com/book/show/41174776-in-the-days-of-drake-joseph-smith-fletcher,N,,,,0,4283
 1898,Fergus Hume,M,The Clock Struck One,N,N,N,,Frederick Warne,Y,3.33,36,206,https://www.goodreads.com/book/show/25653109-the-clock-struck-one https://www.goodreads.com/book/show/25653109-the-clock-struck-one,N,,,,0,5380
@@ -245,7 +245,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,Emily Morse Symonds,F,A Writer of Books,N,N,N,,Chapman and Hall,Y,3.73,26,244,https://www.goodreads.com/book/show/4264201-a-writer-of-books https://www.goodreads.com/book/show/4264201-a-writer-of-books,N,,,,0,2143
 1893,Mary Cholmondeley,F,Diana Tempest,N,N,N,37973/ 37974/37975,Bentley,Y,3.62,26,245,https://www.goodreads.com/book/show/6879688-diana-tempest https://www.goodreads.com/book/show/6879688-diana-tempest,N,,,,0,709
 1894,Max Pemberton,M,Jewel Mysteries I Have Known: From a Dealer's Note Book,N,N,N,39891,"Ward, Lock",Y,3.96,26,246,https://www.goodreads.com/book/show/35648564-jewel-mysteries-i-have-known https://www.goodreads.com/book/show/35648564-jewel-mysteries-i-have-known,N,,,,0,4097
-1901,M.P. Shiel,F,The Lord of the Sea,N,N,N,6993,Grant Richards,Y,3.42,26,247,https://www.goodreads.com/book/show/6559445-the-lord-of-the-sea-by-m-p-shiel-fiction-literary-fantasy https://www.goodreads.com/book/show/6559445-the-lord-of-the-sea-by-m-p-shiel-fiction-literary-fantasy,N,,,,0,944
+1901,M. P. Shiel,F,The Lord of the Sea,N,N,N,6993,Grant Richards,Y,3.42,26,247,https://www.goodreads.com/book/show/6559445-the-lord-of-the-sea-by-m-p-shiel-fiction-literary-fantasy https://www.goodreads.com/book/show/6559445-the-lord-of-the-sea-by-m-p-shiel-fiction-literary-fantasy,N,,,,0,944
 1895,Richard Harding Davis,M,The Princess Aline,N,N,N,327,Macmillan,Y,3.65,26,248,https://www.goodreads.com/book/show/8745495-the-princess-aline https://www.goodreads.com/book/show/8745495-the-princess-aline,N,,,,0,3924
 1893,Robert Leighton,M,The Thirsty Sword: A Story of the Norse Invasion of Scotland (1262-1263),N,N,N,12981,Blackie,Y,3.65,26,249,https://www.goodreads.com/book/show/18953027-the-thirsty-sword-a-story-of-the-norse-invasion-of-scotland https://www.goodreads.com/book/show/18953027-the-thirsty-sword-a-story-of-the-norse-invasion-of-scotland,N,,,,0,3835
 1892,Thomas Cobb,M,Wedderburn's Will: A Detective Story,N,N,N,,"Ward, Lock",Y,3.58,26,250,https://www.goodreads.com/book/show/25749440-wedderburn-s-will https://www.goodreads.com/book/show/25749440-wedderburn-s-will,N,,,,0,3539
@@ -323,7 +323,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1895,George Gissing,M,Sleeping Fires,N,N,N,,T. Fisher Unwin,Y,3.47,15,322,https://www.goodreads.com/book/show/3379235-sleeping-fires https://www.goodreads.com/book/show/3379235-sleeping-fires,N,,,,2,97
 1901,F. S. Brereton,M,The Gallant Grenadier: A Tale of the Crimean War,N,N,N,32930,Blackie,Y,2.47,15,323,https://www.goodreads.com/book/show/18946147-a-gallant-grenadier https://www.goodreads.com/book/show/18946147-a-gallant-grenadier,N,,,,0,5428
 1894,Fergus Hume,M,The Lone Inn: A Mystery,N,N,N,,Jarrold and Son,Y,3.27,15,324,https://www.goodreads.com/book/show/25146930-the-lone-inn https://www.goodreads.com/book/show/25146930-the-lone-inn,N,,,,0,5387
-1899,A. E. W.  Mason,F,The Watchers,N,N,N,38693,Arrowsmith,Y,3.6,15,325,https://www.goodreads.com/book/show/46036150-the-watchers https://www.goodreads.com/book/show/46036150-the-watchers,N,,,,0,3133
+1899,A. E. W. Mason,F,The Watchers,N,N,N,38693,Arrowsmith,Y,3.6,15,325,https://www.goodreads.com/book/show/46036150-the-watchers https://www.goodreads.com/book/show/46036150-the-watchers,N,,,,0,3133
 1898,Joseph Storer Clouston,M,"Vandrad the Viking: or, The Feud and the Spell",N,N,N,5120,Nelson and Sons,Y,4.13,15,326,https://www.goodreads.com/book/show/15046412-vandrad-the-viking-or-the-feud-and-the-spell-by-joseph-storer-clouston https://www.goodreads.com/book/show/15046412-vandrad-the-viking-or-the-feud-and-the-spell-by-joseph-storer-clouston,N,,,,0,4280
 1901,Lucas Malet,F,The History of Sir Richard Calmady: A Romance,N,N,N,23784,Methuen,Y,3.79,14,327,https://www.goodreads.com/book/show/18949033-the-history-of-sir-richard-calmady https://www.goodreads.com/book/show/18949033-the-history-of-sir-richard-calmady,Y,,,,0,966
 1901,Rosa Nouchette Carey,F,Herb of Grace,N,N,N,4005,Macmillan,Y,3.57,14,328,https://www.goodreads.com/book/show/11080870-herb-of-grace https://www.goodreads.com/book/show/11080870-herb-of-grace,N,,,,0,310
@@ -420,7 +420,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,Edward Grey,U,Dr. Sinclair's Sister,N,N,N,,Remington,Y,3.62,8,419,https://www.goodreads.com/book/show/1711382.Dr_Dumany_s_Wife https://www.goodreads.com/book/show/1711382.Dr_Dumany_s_Wife,N,,,,0,6277
 1897,Marie Corelli,F,Jane: A Social Incident,N,N,N,,Hutchinson,Y,3.75,8,420,https://www.goodreads.com/book/show/8199947-jane https://www.goodreads.com/book/show/8199947-jane,N,,,,0,800
 1893,Grant Allen,M,Michael's Crag,N,N,N,5869,Leadenhall Press,Y,3.5,8,421,https://www.goodreads.com/book/show/10201225-michael-s-crag-a-whisky-priest-book https://www.goodreads.com/book/show/10201225-michael-s-crag-a-whisky-priest-book,N,,,,0,4940
-1899,A. E. W.  Mason,M,Miranda of the Balcony: A Story,N,N,N,38679,Macmillan,Y,3,8,422,https://www.goodreads.com/book/show/9445254-miranda-of-the-balcony-a-story https://www.goodreads.com/book/show/9445254-miranda-of-the-balcony-a-story,N,,,,0,6183
+1899,A. E. W. Mason,M,Miranda of the Balcony: A Story,N,N,N,38679,Macmillan,Y,3,8,422,https://www.goodreads.com/book/show/9445254-miranda-of-the-balcony-a-story https://www.goodreads.com/book/show/9445254-miranda-of-the-balcony-a-story,N,,,,0,6183
 1894,William Sharp,M,Pharais: A Romance of the Isles,N,N,N,43485,Simpkin,Y,3.5,8,423,https://www.goodreads.com/book/show/8666977-pharais https://www.goodreads.com/book/show/8666977-pharais,N,,,,0,3167
 1891,R. M. Ballantyne,M,The Buffalo Runners: A Tale of the Red River Plains,N,N,N,23372,James Nisbet,Y,3.5,8,424,https://www.goodreads.com/book/show/19326640-the-buffalo-runners-a-tale-of-the-red-river-plains https://www.goodreads.com/book/show/19326640-the-buffalo-runners-a-tale-of-the-red-river-plains,N,,,,0,3968
 1898,Walter Besant,M,The Changeling,N,N,N,49035,Chapman and Hall,Y,2.88,8,425,https://www.goodreads.com/book/show/12885527-the-changeling https://www.goodreads.com/book/show/12885527-the-changeling,N,,,,0,3470
@@ -432,7 +432,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1892,Jerome K. Jerome,M,Weeds: A Story in Seven Chapters,N,N,N,,Arrowsmith,Y,4.25,8,431,https://www.goodreads.com/book/show/21366431-weeds-by-k-mc-k-jerome-k-jerome https://www.goodreads.com/book/show/21366431-weeds-by-k-mc-k-jerome-k-jerome,N,,,,0,4470
 1894,Ella Hepworth Dixon,F,The Story of a Modern Woman,N,N,Y,,William Heinemann,Y,4,7,432,https://www.goodreads.com/book/show/1041241.Ella_Hepworth_Dixon https://www.goodreads.com/book/show/1041241.Ella_Hepworth_Dixon,N,,,,34,25
 1900,Marie Corelli,F,Boy: A Sketch,N,N,N,,Hutchinson,Y,3.43,7,433,https://www.goodreads.com/book/show/12347040-boy https://www.goodreads.com/book/show/12347040-boy,Y,,,,1,104
-1891,Ménie Muriel Dowie,F,A Girl in the Karpathians,N,N,N,,G. Philip,Y,3.43,7,434,https://www.goodreads.com/book/show/3265696-a-girl-in-the-karpathians https://www.goodreads.com/book/show/3265696-a-girl-in-the-karpathians,N,,,,0,477
+1891,MÃ©nie Muriel Dowie,F,A Girl in the Karpathians,N,N,N,,G. Philip,Y,3.43,7,434,https://www.goodreads.com/book/show/3265696-a-girl-in-the-karpathians https://www.goodreads.com/book/show/3265696-a-girl-in-the-karpathians,N,,,,0,477
 1895,A. E. W. Mason,M,A Romance of Wastdale,N,N,N,38719,Elkin Mathews,Y,3.71,7,435,https://www.goodreads.com/book/show/24061308-a-romance-of-wastdale https://www.goodreads.com/book/show/24061308-a-romance-of-wastdale,N,,,,0,6181
 1896,Robert Barr,M,A Woman Intervenes,N,N,N,9379,Chatto and Windus,Y,2.86,7,436,https://www.goodreads.com/book/show/7815235-a-woman-intervenes https://www.goodreads.com/book/show/7815235-a-woman-intervenes,N,,,,0,3872
 1898,George Moore,M,Evelyn Innes,N,N,N,13201,T. Fisher Unwin,Y,3.43,7,437,https://www.goodreads.com/book/show/29573307-the-collected-works-of-george-moore https://www.goodreads.com/book/show/29573307-the-collected-works-of-george-moore,N,,,,0,4996
@@ -444,7 +444,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,Talbot Baines Reed,M,The Cock-house at Fellsgarth,N,N,N,21037,R. T. S.,Y,3.86,7,443,https://www.goodreads.com/book/show/10086485-the-cock-house-at-fellsgarth https://www.goodreads.com/book/show/10086485-the-cock-house-at-fellsgarth,N,,,,0,3566
 1899,Robert Cromie,M,The Lost Liner,N,N,N,,George Newnes,Y,4,7,444,https://www.goodreads.com/book/show/13582142-the-lost-liner https://www.goodreads.com/book/show/13582142-the-lost-liner,N,,,,0,3860
 1897,Barry Pain,M,The Octave of Claudius,N,N,N,,Harper and Bros,Y,2.86,7,445,https://www.goodreads.com/book/show/8102154-the-octave-of-claudius https://www.goodreads.com/book/show/8102154-the-octave-of-claudius,N,,,,0,5954
-1897,A. E. W.  Mason,M,The Philanderers,N,N,N,13057,Macmillan,Y,3.57,7,446,https://www.goodreads.com/book/show/19292229-the-philanderers https://www.goodreads.com/book/show/19292229-the-philanderers,N,,,,0,6184
+1897,A. E. W. Mason,M,The Philanderers,N,N,N,13057,Macmillan,Y,3.57,7,446,https://www.goodreads.com/book/show/19292229-the-philanderers https://www.goodreads.com/book/show/19292229-the-philanderers,N,,,,0,6184
 1896,Florence Marryat,F,The Strange Transfiguration of Hannah Stubbs,N,N,N,,Hutchinson,Y,3.43,7,447,https://www.goodreads.com/book/show/7161603-the-strange-transfiguration-of-hannah-stubbs https://www.goodreads.com/book/show/7161603-the-strange-transfiguration-of-hannah-stubbs,N,,,,0,1802
 1896,E. Phillips Oppenheim,M,The World's Great Snare,N,N,N,,Ward and Downey,Y,3.57,7,448,https://www.goodreads.com/book/show/35590464-the-world-s-great-snare-by https://www.goodreads.com/book/show/35590464-the-world-s-great-snare-by,N,,,,0,5668
 1897,Mary Cholmondeley,F,A Devotee: An Episode in the Life of a Butterfly,N,N,N,40408,Edward Arnold,Y,2.17,6,449,https://www.goodreads.com/book/show/30959472-a-devotee https://www.goodreads.com/book/show/30959472-a-devotee,N,,,,0,710
@@ -461,7 +461,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1899,Neil Munro,M,"Gilian the Dreamer: His Fancy, his Love and Adventure",N,N,N,22211,William Isbister,Y,4,6,460,https://www.goodreads.com/book/show/8094212-gilian-the-dreamer https://www.goodreads.com/book/show/8094212-gilian-the-dreamer,N,,,,0,4036
 1892,Maarten Maartens,M,God's Fool: A Koopstad Story,N,N,N,,Bentley,Y,3.83,6,461,https://www.goodreads.com/book/show/22874799-god-s-fool https://www.goodreads.com/book/show/22874799-god-s-fool,N,,,,0,4158
 1898,David Dwight Wells,M,Her Ladyship's Elephant,N,N,N,28149,William Heinemann,Y,3.67,6,462,https://www.goodreads.com/book/show/9284793-her-ladyship-s-elephant https://www.goodreads.com/book/show/9284793-her-ladyship-s-elephant,N,,,,0,5684
-1897,A. E. W.  Mason,M,Lawrence Clavering,N,N,N,38718,A. D. Innes,Y,4.33,6,463,https://www.goodreads.com/book/show/24583528-lawrence-clavering https://www.goodreads.com/book/show/24583528-lawrence-clavering,N,,,,0,6185
+1897,A. E. W. Mason,M,Lawrence Clavering,N,N,N,38718,A. D. Innes,Y,4.33,6,463,https://www.goodreads.com/book/show/24583528-lawrence-clavering https://www.goodreads.com/book/show/24583528-lawrence-clavering,N,,,,0,6185
 1895,Richard Marsh,M,Mrs Musgrave--and her Husband,N,N,N,,William Heinemann,Y,3,6,464,https://www.goodreads.com/book/show/20273231-mrs-musgrave-and-her-husband https://www.goodreads.com/book/show/20273231-mrs-musgrave-and-her-husband,N,,,,0,3904
 1895,Clive Holland,M,My Japanese Wife: A Japanese Idyll,N,N,N,,Archibald Constable,Y,3.83,6,465,https://www.goodreads.com/book/show/12197905-my-japanese-wife https://www.goodreads.com/book/show/12197905-my-japanese-wife,N,,,,0,5745
 1891,George Meredith,M,One of Our Conquerors,N,N,N,4476,Chapman and Hall,Y,4.33,6,466,https://www.goodreads.com/book/show/28970533-the-works-of-george-meredith https://www.goodreads.com/book/show/28970533-the-works-of-george-meredith,N,,,,0,5000
@@ -518,7 +518,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,Fergus Hume,M,A Creature of the Night: An Italian Enigma,N,N,N,,Sampson Low,Y,3,4,518,https://www.goodreads.com/book/show/45300526-a-creature-of-the-night-by-fergus-hume-614 https://www.goodreads.com/book/show/45300526-a-creature-of-the-night-by-fergus-hume-614,N,,,,0,5392
 1897,Lily Dougall,F,A Dozen Ways of Love,N,N,N,18086,A. and C. Black,Y,4,4,519,https://www.goodreads.com/book/show/9463031-a-dozen-ways-of-love https://www.goodreads.com/book/show/9463031-a-dozen-ways-of-love,N,,,,0,1046
 1891,William Clark Russell,M,A Marriage at Sea,N,N,N,32516,Methuen,Y,2.75,4,520,https://www.goodreads.com/book/show/21208725-a-marriage-at-sea https://www.goodreads.com/book/show/21208725-a-marriage-at-sea,N,,,,0,3369
-1894,Bret Harte,M,A Protégée of Jack Hamlin's,N,N,N,2692,Chatto and Windus,Y,4.25,4,521,https://www.goodreads.com/book/show/12664412-a-protegee-of-jack-hamlin-s https://www.goodreads.com/book/show/12664412-a-protegee-of-jack-hamlin-s,N,,,,0,5889
+1894,Bret Harte,M,A ProtÃ©gÃ©e of Jack Hamlin's,N,N,N,2692,Chatto and Windus,Y,4.25,4,521,https://www.goodreads.com/book/show/12664412-a-protegee-of-jack-hamlin-s https://www.goodreads.com/book/show/12664412-a-protegee-of-jack-hamlin-s,N,,,,0,5889
 1898,Joseph Alexander Altsheler,M,"A Soldier of Manhattan, and his Adventures at Ticonderoga and Quebec",N,N,N,,"Smith, Elder",Y,4.25,4,522,https://www.goodreads.com/book/show/2335164.A_Soldier_Of_Manhattan https://www.goodreads.com/book/show/2335164.A_Soldier_Of_Manhattan,N,,,,0,4358
 1898,Charles John Cutcliffe Hyne,M,Adventures of Captain Kettle,N,N,N,12556,C. Arthur Pearson,Y,3.25,4,523,https://www.goodreads.com/book/show/7793546-adventures-of-captain-kettle https://www.goodreads.com/book/show/7793546-adventures-of-captain-kettle,N,,,,0,5789
 1895,William John Locke,M,At the Gate of Samaria: A Novel,N,N,N,,William Heinemann,Y,3.75,4,524,https://www.goodreads.com/book/show/13627386-at-the-gate-of-samaria https://www.goodreads.com/book/show/13627386-at-the-gate-of-samaria,N,,,,0,3252
@@ -532,7 +532,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,George Egerton,F,Fantasias,N,N,N,,John Lane,Y,4.5,4,532,https://www.goodreads.com/book/show/14328625-fantasias https://www.goodreads.com/book/show/14328625-fantasias,N,,,,0,1638
 1896,Arthur Paterson,M,For Freedom's Sake,N,N,N,,"Osgood, McIlvaine",Y,4,4,533,https://www.goodreads.com/book/show/11631005-for-freedom-s-sake https://www.goodreads.com/book/show/11631005-for-freedom-s-sake,N,,,,0,5985
 1893,Anthony Hope,M,Half a Hero,N,N,N,22191,A. D. Innes,Y,3.25,4,534,https://www.goodreads.com/book/show/1481271.Half_a_Hero https://www.goodreads.com/book/show/1481271.Half_a_Hero,N,,,,0,6055
-1896,Esmé Stuart,F,Harum Scarum: A Poor Relation,N,N,N,,Jarrold and Son,Y,4.75,4,535,https://www.goodreads.com/book/show/10896482-harum-scarum https://www.goodreads.com/book/show/10896482-harum-scarum,N,,,,0,2004
+1896,EsmÃ© Stuart,F,Harum Scarum: A Poor Relation,N,N,N,,Jarrold and Son,Y,4.75,4,535,https://www.goodreads.com/book/show/10896482-harum-scarum https://www.goodreads.com/book/show/10896482-harum-scarum,N,,,,0,2004
 1895,Talbot Baines Reed,M,Kilgorman: A Story of Ireland in 1798,N,N,N,20994,Nelson and Sons,Y,3.5,4,536,https://www.goodreads.com/book/show/20686080-kilgorman-a-story-of-ireland-in-1798 https://www.goodreads.com/book/show/20686080-kilgorman-a-story-of-ireland-in-1798,N,,,,0,3570
 1898,Grant Allen,M,Linnet: A Romance,N,N,N,48296,Grant Richards,Y,4,4,537,https://www.goodreads.com/book/show/25350352-linnet-a-romance https://www.goodreads.com/book/show/25350352-linnet-a-romance,N,,,,0,4941
 1897,S. R. Crockett,M,Lochinvar,N,N,N,45495,Methuen,Y,3.75,4,538,https://www.goodreads.com/book/show/12294648-lochinvar https://www.goodreads.com/book/show/12294648-lochinvar,N,,,,0,3759
@@ -609,7 +609,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1892,Robert Potter,M,The Germ Growers: The Strange Adventures of Robert Easterley and John Wilbraham,N,N,N,,Hutchinson,Y,3,3,609,https://www.goodreads.com/book/show/27072552-the-germ-growers-the-strange-adventures-of-robert-easterley-and-john-wi https://www.goodreads.com/book/show/27072552-the-germ-growers-the-strange-adventures-of-robert-easterley-and-john-wi,N,,,,0,3820
 1898,Robert Leighton,M,The Golden Galleon,N,N,N,,Blackie,Y,3.33,3,610,https://www.goodreads.com/book/show/21130962-the-golden-galleon-being-a-narrative-of-the-adventures-of-master-gilbert https://www.goodreads.com/book/show/21130962-the-golden-galleon-being-a-narrative-of-the-adventures-of-master-gilbert,N,,,,0,3836
 1891,Frank R. Stockton,M,The House of Martha,N,N,N,18822,"Osgood, McIlvaine",Y,4.33,3,611,https://www.goodreads.com/book/show/28850152-the-novels-and-stories-of-frank-r-stockton https://www.goodreads.com/book/show/28850152-the-novels-and-stories-of-frank-r-stockton,N,,,,0,5270
-1901,Margaret S.  Comrie,F,The Key to the Riddle,N,N,N,,James Nisbet,Y,4,3,612,https://www.goodreads.com/book/show/25857243-the-key-to-the-riddle https://www.goodreads.com/book/show/25857243-the-key-to-the-riddle,N,,,,0,873
+1901,Margaret S. Comrie,F,The Key to the Riddle,N,N,N,,James Nisbet,Y,4,3,612,https://www.goodreads.com/book/show/25857243-the-key-to-the-riddle https://www.goodreads.com/book/show/25857243-the-key-to-the-riddle,N,,,,0,873
 1898,Richard Harding Davis,M,The King's Jackal,N,N,N,411,William Heinemann,Y,3.33,3,613,https://www.goodreads.com/book/show/32963725-the-king-s-jackal-by https://www.goodreads.com/book/show/32963725-the-king-s-jackal-by,N,,,,0,3925
 1898,Robert Hichens,M,The Londoners: An Absurdity,N,N,N,,William Heinemann,Y,3.67,3,614,https://www.goodreads.com/book/show/8871409-the-londoners https://www.goodreads.com/book/show/8871409-the-londoners,N,,,,0,3845
 1891,Ernest Glanville,M,"The Lost Heiress: A Tale of Love, Battle, and Adventure",N,N,N,,Chatto and Windus,Y,3.33,3,615,https://www.goodreads.com/book/show/12682578-the-lost-heiress https://www.goodreads.com/book/show/12682578-the-lost-heiress,N,,,,0,5474
@@ -785,7 +785,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1897,St George Henry Rathborne,M,A Son of Mars,N,N,N,,James Henderson,Y,3,1,785,https://www.goodreads.com/book/show/26528687-a-son-of-mars https://www.goodreads.com/book/show/26528687-a-son-of-mars,N,,,,0,3607
 1896,Grant Allen,M,A Splendid Sin,N,N,N,,F. V. White,Y,2,1,786,https://www.goodreads.com/book/show/8355030-a-splendid-sin https://www.goodreads.com/book/show/8355030-a-splendid-sin,N,,,,0,4943
 1901,Katharine Tynan,F,A Union of Hearts,N,N,N,,James Nisbet,Y,5,1,787,https://www.goodreads.com/book/show/52337897-a-union-of-hearts https://www.goodreads.com/book/show/52337897-a-union-of-hearts,N,,,,0,1136
-1892,Hamilton Aidé,M,A Voyage of Discovery: A Novel of American Society,N,N,N,,"Osgood, McIlvaine",Y,3,1,788,https://www.goodreads.com/book/show/13172628-a-voyage-of-discovery https://www.goodreads.com/book/show/13172628-a-voyage-of-discovery,N,,,,0,4880
+1892,Hamilton AidÃ©,M,A Voyage of Discovery: A Novel of American Society,N,N,N,,"Osgood, McIlvaine",Y,3,1,788,https://www.goodreads.com/book/show/13172628-a-voyage-of-discovery https://www.goodreads.com/book/show/13172628-a-voyage-of-discovery,N,,,,0,4880
 1894,Mrs. Alexander,F,A Ward in Chancery: A Novel,N,N,N,,"Osgood, McIlvaine",Y,4,1,789,https://www.goodreads.com/book/show/12869608-a-ward-in-chancery https://www.goodreads.com/book/show/12869608-a-ward-in-chancery,N,,,,0,450
 1896,Mrs. Alexander,F,A Winning Hazard,N,N,N,,T. Fisher Unwin,Y,4,1,790,https://www.goodreads.com/book/show/30411454-a-winning-hazard https://www.goodreads.com/book/show/30411454-a-winning-hazard,N,,,,0,451
 1896,F. Marion Crawford,M,Adam Johnstone's Son,N,N,N,22455,Macmillan,Y,4,1,791,https://www.goodreads.com/book/show/10976361-adam-johnstone-s-son https://www.goodreads.com/book/show/10976361-adam-johnstone-s-son,N,,,,0,5445
@@ -811,7 +811,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1892,Emma Marshall,F,Bristol Bells: A Story of the Eighteenth Century,N,N,N,25026,Seeley,Y,5,1,811,https://www.goodreads.com/book/show/21149672-bristol-bells-a-story-of-the-eighteenth-century https://www.goodreads.com/book/show/21149672-bristol-bells-a-story-of-the-eighteenth-century,N,,,,0,2060
 1891,George Manville Fenn,M,Burr Junior: His Struggles and Studies at Old Browne's School,N,N,N,,Griffith and Farran,Y,3,1,812,https://www.goodreads.com/book/show/8657707-burr-junior https://www.goodreads.com/book/show/8657707-burr-junior,N,,,,0,5014
 1892,Rosa Nouchette Carey,F,But Men Must Work,N,N,N,,Bentley,Y,4,1,813,https://www.goodreads.com/book/show/14389449-but-men-must-work https://www.goodreads.com/book/show/14389449-but-men-must-work,N,,,,0,315
-1898,Esmé Stuart,F,By Reeds and Rushes: A Story,N,N,N,,Oliphant,Y,3,1,814,https://www.goodreads.com/book/show/42431279-by-reeds-and-rushes https://www.goodreads.com/book/show/42431279-by-reeds-and-rushes,N,,,,0,2005
+1898,EsmÃ© Stuart,F,By Reeds and Rushes: A Story,N,N,N,,Oliphant,Y,3,1,814,https://www.goodreads.com/book/show/42431279-by-reeds-and-rushes https://www.goodreads.com/book/show/42431279-by-reeds-and-rushes,N,,,,0,2005
 1896,S. R. Crockett,M,Cleg Kelly: Arab of the City,N,N,N,48354,"Smith, Elder",Y,3,1,815,https://www.goodreads.com/book/show/11007853-cleg-kelly-arab-of-the-city https://www.goodreads.com/book/show/11007853-cleg-kelly-arab-of-the-city,N,,,,0,3767
 1898,Henry Harland,M,Comedies and Errors,N,N,N,,John Lane,Y,3,1,816,https://www.goodreads.com/book/show/4679989-comedies-and-errors https://www.goodreads.com/book/show/4679989-comedies-and-errors,N,,,,0,4751
 1891,Egerton Castle,M,Consequences: A Novel,N,N,N,,Bentley,Y,2,1,817,https://www.goodreads.com/book/show/13578363-consequences https://www.goodreads.com/book/show/13578363-consequences,N,,,,0,5506
@@ -886,7 +886,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1899,Rosa Nouchette Carey,F,My Lady Frivol,N,N,N,,Hutchinson,Y,4,1,886,https://www.goodreads.com/book/show/19287636-my-lady-frivol https://www.goodreads.com/book/show/19287636-my-lady-frivol,N,,,,0,316
 1891,Henry Richard Savage,M,My Official Wife: A Novel,N,N,N,,Routledge,Y,2,1,887,https://www.goodreads.com/book/show/29144463-my-official-wife-a-novel-by-richard-henry-savage https://www.goodreads.com/book/show/29144463-my-official-wife-a-novel-by-richard-henry-savage,N,,,,0,4688
 1901,Edgar Fawcett,M,New York: A Novel,N,N,N,,Sands,Y,4,1,888,https://www.goodreads.com/book/show/12343019-new-york-a-novel https://www.goodreads.com/book/show/12343019-new-york-a-novel,N,,,,0,5633
-1895,Sabine Baring-Gould,M,Noémi: A Story of Rock-dwellers,N,N,N,44455,Methuen,Y,5,1,889,https://www.goodreads.com/book/show/32633471-noemi https://www.goodreads.com/book/show/32633471-noemi,N,,,,0,3742
+1895,Sabine Baring-Gould,M,NoÃ©mi: A Story of Rock-dwellers,N,N,N,44455,Methuen,Y,5,1,889,https://www.goodreads.com/book/show/32633471-noemi https://www.goodreads.com/book/show/32633471-noemi,N,,,,0,3742
 1892,Margaret Wolfe Hungerford,F,Nor Wife Nor Maid,N,N,N,,William Heinemann,Y,4,1,890,https://www.goodreads.com/book/show/27372712-nor-wife-nor-maid https://www.goodreads.com/book/show/27372712-nor-wife-nor-maid,N,,,,0,827
 1893,George Manville Fenn,M,Nurse Elisia,N,N,N,40675,Hurst and Blackett,Y,5,1,891,https://www.goodreads.com/book/show/21051936-nurse-elisia https://www.goodreads.com/book/show/21051936-nurse-elisia,N,,,,0,5018
 1896,Katharine Tynan,F,"Oh, What a Plague is Love!",N,N,N,,A. and C. Black,Y,3,1,892,https://www.goodreads.com/book/show/6480779-oh-what-a-plague-is-love https://www.goodreads.com/book/show/6480779-oh-what-a-plague-is-love,N,,,,0,1137
@@ -897,7 +897,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,Vernon Lee,F,Ottilie: An Eighteenth Century Idyl,N,N,N,,T. Fisher Unwin,Y,3,1,897,https://www.goodreads.com/book/show/37052988-ottilie https://www.goodreads.com/book/show/37052988-ottilie,N,,,,0,186
 1894,Sarah Grand,F,Our Manifold Nature,N,N,N,,William Heinemann,Y,3,1,898,https://www.goodreads.com/book/show/4005307-our-manifold-nature-stories-from-life https://www.goodreads.com/book/show/4005307-our-manifold-nature-stories-from-life,N,,,,1,101
 1895,Adeline Sergeant,F,Out of Due Season: A Mezzotint,N,N,N,,William Heinemann,Y,4,1,899,https://www.goodreads.com/book/show/7495632-out-of-due-season https://www.goodreads.com/book/show/7495632-out-of-due-season,N,,,,0,3065
-1893,Esmé Stuart,F,Out of Reach,N,N,N,,W. & R. Chambers,Y,4,1,900,https://www.goodreads.com/book/show/6898208-out-of-reach https://www.goodreads.com/book/show/6898208-out-of-reach,N,,,,0,2006
+1893,EsmÃ© Stuart,F,Out of Reach,N,N,N,,W. & R. Chambers,Y,4,1,900,https://www.goodreads.com/book/show/6898208-out-of-reach https://www.goodreads.com/book/show/6898208-out-of-reach,N,,,,0,2006
 1892,Frank Barrett,M,Out of the Jaws of Death,N,N,N,,Cassell,Y,4,1,901,https://www.goodreads.com/book/show/23476479-out-of-the-jaws-of-death https://www.goodreads.com/book/show/23476479-out-of-the-jaws-of-death,N,,,,0,5316
 1900,Robert W. Chambers,M,Outsiders: An Outline,N,N,N,,Grant Richards,Y,3,1,902,https://www.goodreads.com/book/show/26918656-outsiders https://www.goodreads.com/book/show/26918656-outsiders,N,,,,0,3810
 1898,Alfred Ollivant,M,"Owd Bob, the Grey Dog of Kenmuir",N,N,N,,Methuen,Y,5,1,903,https://www.goodreads.com/book/show/26655650-owd-bob https://www.goodreads.com/book/show/26655650-owd-bob,N,,,,0,6108
@@ -1122,7 +1122,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1896,Robert Williams Buchanan,M,A Marriage by Capture: A Romance of To-day,N,N,N,,T. Fisher Unwin,Y,0,0,"1,122",https://www.goodreads.com/book/show/26951853-a-marriage-by-capture https://www.goodreads.com/book/show/26951853-a-marriage-by-capture,N,,,,0,3795
 1894,Ada Cambridge,F,A Marriage Ceremony,N,N,N,,Hutchinson,Y,0,0,"1,123",https://www.goodreads.com/book/show/12342187-a-marriage-ceremony https://www.goodreads.com/book/show/12342187-a-marriage-ceremony,N,,,,0,3128
 1892,Algernon Gissing,M,A Masquerader,N,N,N,,Hurst and Blackett,Y,0,0,"1,124",https://www.goodreads.com/book/show/27379136-a-masquerader https://www.goodreads.com/book/show/27379136-a-masquerader,N,,,,0,6093
-1896,Esmé Stuart,F,A Mine of Wealth,N,N,N,,Hurst and Blackett,Y,0,0,"1,125",https://www.goodreads.com/book/show/45328026-a-mine-of-wealth https://www.goodreads.com/book/show/45328026-a-mine-of-wealth,N,,,,0,2007
+1896,EsmÃ© Stuart,F,A Mine of Wealth,N,N,N,,Hurst and Blackett,Y,0,0,"1,125",https://www.goodreads.com/book/show/45328026-a-mine-of-wealth https://www.goodreads.com/book/show/45328026-a-mine-of-wealth,N,,,,0,2007
 1897,Thomas Wilkinson Speight,M,A Minion of the Moon: A Romance of the King's Highway,N,N,N,,Chatto and Windus,Y,0,0,"1,126",https://www.goodreads.com/book/show/43465092-minion-of-the-moon https://www.goodreads.com/book/show/43465092-minion-of-the-moon,N,,,,0,3503
 1901,Mrs. Alexander,F,A Missing Hero,N,N,N,,Chatto and Windus,Y,0,0,"1,127",https://www.goodreads.com/book/show/31765106-a-missing-hero https://www.goodreads.com/book/show/31765106-a-missing-hero,N,,,,0,458
 1897,Frank Barrett,M,A Missing Witness,N,N,N,,Chatto and Windus,Y,0,0,"1,128",https://www.goodreads.com/book/show/23476473-a-missing-witness https://www.goodreads.com/book/show/23476473-a-missing-witness,N,,,,0,5317
@@ -1163,14 +1163,14 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,Dorothea Gerard,F,A Sensitive Plant,N,N,N,,Kegan Paul,Y,0,0,"1,163",https://www.goodreads.com/book/show/43760212-a-sensitive-plant-vol-iii---scholar-s-choice-edition https://www.goodreads.com/book/show/43760212-a-sensitive-plant-vol-iii---scholar-s-choice-edition,N,,,,0,2498
 1892,Florence Warden,F,A Shock to Society,N,N,N,,F. V. White,Y,0,0,"1,164",https://www.goodreads.com/book/show/27196503-a-shock-to-society https://www.goodreads.com/book/show/27196503-a-shock-to-society,N,,,,0,1746
 1891,Alfred Larder,M,A Sinner's Sentence,N,N,N,,Chatto and Windus,Y,0,0,"1,165",https://www.goodreads.com/book/show/26985423-a-sinner-s-sentence-vol-3-of-3 https://www.goodreads.com/book/show/26985423-a-sinner-s-sentence-vol-3-of-3,N,,,,0,6112
-1892,Esmé Stuart,F,A Small Legacy: A Story for Children,N,N,N,,National Society's Depository,Y,0,0,"1,166",https://www.goodreads.com/book/show/50370773-a-small-legacy https://www.goodreads.com/book/show/50370773-a-small-legacy,N,,,,0,2008
+1892,EsmÃ© Stuart,F,A Small Legacy: A Story for Children,N,N,N,,National Society's Depository,Y,0,0,"1,166",https://www.goodreads.com/book/show/50370773-a-small-legacy https://www.goodreads.com/book/show/50370773-a-small-legacy,N,,,,0,2008
 1899,Annie S. Swan,F,A Son of Erin,N,N,N,,Hutchinson,Y,0,0,"1,167",https://www.goodreads.com/book/show/27006367-a-son-of-erin https://www.goodreads.com/book/show/27006367-a-son-of-erin,N,,,,0,2842
 1894,Robert Blatchford,M,A Son of the Forge,N,N,N,,A. D. Innes,Y,0,0,"1,168",https://www.goodreads.com/book/show/12859139-a-son-of-the-forge https://www.goodreads.com/book/show/12859139-a-son-of-the-forge,N,,,,0,3865
 1895,Arthur Paterson,M,A Son of the Plains,N,N,N,,Macmillan,Y,0,0,"1,169",https://www.goodreads.com/book/show/26979769-a-son-of-the-plains https://www.goodreads.com/book/show/26979769-a-son-of-the-plains,N,,,,0,5987
 1899,John Arthur Barry,M,A Son of the Sea,N,N,N,,Duckworth and Co,Y,0,0,"1,170",https://www.goodreads.com/book/show/19516493-a-son-of-the-sea https://www.goodreads.com/book/show/19516493-a-son-of-the-sea,N,,,,0,4450
 1899,William Pett Ridge,M,A Son of the State,N,N,N,,Methuen,Y,0,0,"1,171",https://www.goodreads.com/book/show/22238053-a-son-of-the-state https://www.goodreads.com/book/show/22238053-a-son-of-the-state,N,,,,0,3185
 1901,Harold Bindloss,M,A Sower of Wheat,N,N,N,,Chatto and Windus,Y,0,0,"1,172",https://www.goodreads.com/book/show/27083118-a-sower-of-wheat https://www.goodreads.com/book/show/27083118-a-sower-of-wheat,N,,,,0,4865
-1898,Lilian M.  Quiller-Couch,F,A Spanish Maid,N,N,N,,Service and Paton,Y,0,0,"1,173",https://www.goodreads.com/book/show/37479529-a-spanish-maid https://www.goodreads.com/book/show/37479529-a-spanish-maid,N,,,,0,1071
+1898,Lilian M. Quiller-Couch,F,A Spanish Maid,N,N,N,,Service and Paton,Y,0,0,"1,173",https://www.goodreads.com/book/show/37479529-a-spanish-maid https://www.goodreads.com/book/show/37479529-a-spanish-maid,N,,,,0,1071
 1897,Dorothea Gerard,F,A Spotless Reputation,N,N,N,,Blackwood,Y,0,0,"1,174",https://www.goodreads.com/book/show/30497317-a-spotless-reputation https://www.goodreads.com/book/show/30497317-a-spotless-reputation,N,,,,0,2499
 1898,Matthias MacDonnell Bodkin,M,A Stolen Life,N,N,N,,"Ward, Lock",Y,0,0,"1,175",https://www.goodreads.com/book/show/43769782-a-stolen-life---scholar-s-choice-edition https://www.goodreads.com/book/show/43769782-a-stolen-life---scholar-s-choice-edition,N,,,,0,4127
 1892,William Clark Russell,M,A Strange Elopement,N,N,N,,Macmillan,Y,0,0,"1,176",https://www.goodreads.com/book/show/21005133-a-strange-elopement https://www.goodreads.com/book/show/21005133-a-strange-elopement,N,,,,0,3375
@@ -1190,7 +1190,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,David Christie Murray,M,A Wasted Crime: A Novel,N,N,N,,Chatto and Windus,Y,0,0,"1,190",https://www.goodreads.com/book/show/30487375-a-wasted-crime https://www.goodreads.com/book/show/30487375-a-wasted-crime,N,,,,0,5689
 1895,Gertrude Atherton,F,A Whirl Asunder,N,N,N,,Cassell,Y,0,0,"1,191",https://www.goodreads.com/book/show/26991392-a-whirl-asunder https://www.goodreads.com/book/show/26991392-a-whirl-asunder,N,,,,0,1623
 1891,Rhoda Broughton,F,A Widower Indeed,N,N,N,,"Osgood, McIlvaine",Y,0,0,"1,192",https://www.goodreads.com/book/show/35726078-a-widower-indeed https://www.goodreads.com/book/show/35726078-a-widower-indeed,N,,,,0,361
-1893,Esmé Stuart,F,A Woman of Forty: A Monograph,N,N,N,,Methuen,Y,0,0,"1,193",https://www.goodreads.com/book/show/45092407-a-woman-of-forty https://www.goodreads.com/book/show/45092407-a-woman-of-forty,N,,,,0,2009
+1893,EsmÃ© Stuart,F,A Woman of Forty: A Monograph,N,N,N,,Methuen,Y,0,0,"1,193",https://www.goodreads.com/book/show/45092407-a-woman-of-forty https://www.goodreads.com/book/show/45092407-a-woman-of-forty,N,,,,0,2009
 1896,Weedon Grossmith,M,A Woman with a History: A Novel,N,N,N,,F. V. White,Y,0,0,"1,194",https://www.goodreads.com/book/show/27318523-a-woman-with-a-history-a-novel https://www.goodreads.com/book/show/27318523-a-woman-with-a-history-a-novel,N,,,,0,3438
 1895,Emily J. Dunham,F,A Woman's Love-Lesson,N,N,N,,Hurst and Blackett,Y,0,0,"1,195",https://www.goodreads.com/book/show/44685941-a-womans-love---lesson https://www.goodreads.com/book/show/44685941-a-womans-love---lesson,N,,,,0,2159
 1900,Beatrice Heron-Maxwell,F,A Woman's Soul,N,N,N,,Horace Marshall and Son,Y,0,0,"1,196",https://www.goodreads.com/book/show/30692761-a-woman-s-soul https://www.goodreads.com/book/show/30692761-a-woman-s-soul,N,,,,0,2792
@@ -1205,7 +1205,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1896,Edwin Pallander,M,Across the Zodiac: A Story of Adventure,N,N,N,,"Digby, Long",Y,0,0,"1,205",https://www.goodreads.com/book/show/26925257-across-the-zodiac https://www.goodreads.com/book/show/26925257-across-the-zodiac,N,,,,0,5515
 1900,Richard Marsh,M,"Ada Vernham, Actress",N,N,N,,John Long,Y,0,0,"1,206",https://www.goodreads.com/book/show/12340894-ada-vernham-actress https://www.goodreads.com/book/show/12340894-ada-vernham-actress,N,,,,0,3910
 1898,Bernard Capes,M,Adventures of the Comte de la Muette During the Reign of Terror,N,N,N,,Blackwood,Y,0,0,"1,207",https://www.goodreads.com/book/show/12536875-adventures-of-the-comte-de-la-muette-during-the-reign-of-terror https://www.goodreads.com/book/show/12536875-adventures-of-the-comte-de-la-muette-during-the-reign-of-terror,N,,,,0,5920
-1901,Frank R.  Stockton,M,Afield and Afloat,N,N,N,,Cassell,Y,0,0,"1,208",https://www.goodreads.com/book/show/15394680-afield-afloat https://www.goodreads.com/book/show/15394680-afield-afloat,N,,,,0,5275
+1901,Frank R. Stockton,M,Afield and Afloat,N,N,N,,Cassell,Y,0,0,"1,208",https://www.goodreads.com/book/show/15394680-afield-afloat https://www.goodreads.com/book/show/15394680-afield-afloat,N,,,,0,5275
 1896,Jessie L. Nicholson,U,After Long Waiting,N,N,N,,Hurst and Blackett,Y,0,0,"1,209",https://www.goodreads.com/book/show/26298605-after-long-waiting-vol-1-of-2 https://www.goodreads.com/book/show/26298605-after-long-waiting-vol-1-of-2,N,,,,0,6247
 1894,Annie S. Swan,F,Airlie's Mission,N,N,N,,Oliphant,Y,0,0,"1,210",https://www.goodreads.com/book/show/11483797-airlie-s-mission https://www.goodreads.com/book/show/11483797-airlie-s-mission,N,,,,0,2843
 1893,John Walter Sherer,M,Alice of the Inn: A Tale of the Old Coaching Days,N,N,N,,W. H. Allen,Y,0,0,"1,211",https://www.goodreads.com/book/show/31880519-alice-of-the-inn https://www.goodreads.com/book/show/31880519-alice-of-the-inn,N,,,,0,4361
@@ -1262,7 +1262,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1896,Amelia E. Barr,F,Bernicia,N,N,N,,Sampson Low,Y,0,0,"1,262",https://www.goodreads.com/book/show/41449647-bernicia-1895-by https://www.goodreads.com/book/show/41449647-bernicia-1895-by,N,,,,0,2966
 1893,Katharine Sarah Macquoid,F,Berris,N,N,N,,Ward and Downey,Y,0,0,"1,263",https://www.goodreads.com/book/show/12114865-berris https://www.goodreads.com/book/show/12114865-berris,N,,,,0,1150
 1891,Lady Caroline Blanche Elizabeth Lindsay,F,Bertha's Earl,N,N,N,,Bentley,Y,0,0,"1,264",https://www.goodreads.com/book/show/28993915-bertha-s-earl https://www.goodreads.com/book/show/28993915-bertha-s-earl,N,,,,0,1101
-1898,Stella M. Düring,F,Between the Devil and the Deep Sea,N,N,N,,A. D. Innes,Y,0,0,"1,265",https://www.goodreads.com/book/show/8300117-between-the-devil-and-the-deep-sea https://www.goodreads.com/book/show/8300117-between-the-devil-and-the-deep-sea,N,,,,0,250
+1898,Stella M. DÃ¼ring,F,Between the Devil and the Deep Sea,N,N,N,,A. D. Innes,Y,0,0,"1,265",https://www.goodreads.com/book/show/8300117-between-the-devil-and-the-deep-sea https://www.goodreads.com/book/show/8300117-between-the-devil-and-the-deep-sea,N,,,,0,250
 1900,Algernon Gissing,M,Between Two Opinions,N,N,N,,Hurst and Blackett,Y,0,0,"1,266",https://www.goodreads.com/book/show/25288198-between-two-opinions https://www.goodreads.com/book/show/25288198-between-two-opinions,N,,,,0,6096
 1895,William Edward Norris,M,Billy Bellew: A Novel,N,N,N,,Chatto and Windus,Y,0,0,"1,267",https://www.goodreads.com/book/show/26997897-billy-bellew-vol-1-of-2 https://www.goodreads.com/book/show/26997897-billy-bellew-vol-1-of-2,N,,,,0,3336
 1898,Archibald Clavering Gunter,M,Billy Hamilton: A Novel,N,N,N,,Routledge,Y,0,0,"1,268",https://www.goodreads.com/book/show/45210020-billy-hamilton https://www.goodreads.com/book/show/45210020-billy-hamilton,N,,,,0,6037
@@ -1298,7 +1298,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1894,Frances Mary Peard,F,Catherine,N,N,N,,A. D. Innes,Y,0,0,"1,298",https://www.goodreads.com/book/show/27526115-catherine https://www.goodreads.com/book/show/27526115-catherine,N,,,,0,1673
 1897,Walter Raymond,M,Charity Chance,N,N,N,,"Bliss, Sands, and Foster",Y,0,0,"1,299",https://www.goodreads.com/book/show/31763143-charity-chance-a-novel https://www.goodreads.com/book/show/31763143-charity-chance-a-novel,N,,,,0,3446
 1891,Anne Beale,F,Charlie is my Darling,N,N,N,,Hurst and Blackett,Y,0,0,"1,300",https://www.goodreads.com/book/show/43426635-charlie-is-my-darling https://www.goodreads.com/book/show/43426635-charlie-is-my-darling,N,,,,0,2903
-1900,Arabella Kenealy,F,Charming Renée,N,N,N,,Hutchinson,Y,0,0,"1,301",https://www.goodreads.com/book/show/20277148-charming-renee-a-novel https://www.goodreads.com/book/show/20277148-charming-renee-a-novel,N,,,,0,2805
+1900,Arabella Kenealy,F,Charming RenÃ©e,N,N,N,,Hutchinson,Y,0,0,"1,301",https://www.goodreads.com/book/show/20277148-charming-renee-a-novel https://www.goodreads.com/book/show/20277148-charming-renee-a-novel,N,,,,0,2805
 1893,Sabine Baring-Gould,M,Cheap Jack Zita,N,N,N,,Methuen,Y,0,0,"1,302",https://www.goodreads.com/book/show/12167957-cheap-jack-zita https://www.goodreads.com/book/show/12167957-cheap-jack-zita,N,,,,0,3747
 1896,Henry Richard Savage,M,"Checked Through. Missing, Trunk no. 17580: A Story of New York Life",N,N,N,,Routledge,Y,0,0,"1,303",https://www.goodreads.com/book/show/11785352-checked-through https://www.goodreads.com/book/show/11785352-checked-through,N,,,,0,4693
 1894,Adeline Sergeant,F,Christine,N,N,N,,Hurst and Blackett,Y,0,0,"1,304",https://www.goodreads.com/book/show/31729203-christine https://www.goodreads.com/book/show/31729203-christine,N,,,,0,3070
@@ -1355,7 +1355,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,Hugh MacColl,M,Ednor Whitlock,N,N,N,,Chatto and Windus,Y,0,0,"1,355",https://www.goodreads.com/book/show/15993715-ednor-whitlock https://www.goodreads.com/book/show/15993715-ednor-whitlock,N,,,,0,4621
 1896,Robert Williams Buchanan,M,Effie Hetherington,N,N,N,,T. Fisher Unwin,Y,0,0,"1,356",https://www.goodreads.com/book/show/29817207-effie-hetherington https://www.goodreads.com/book/show/29817207-effie-hetherington,N,,,,0,3799
 1897,Richard Pryce,M,Elementary Jane,N,N,N,,Hutchinson,Y,0,0,"1,357",https://www.goodreads.com/book/show/29715330-elementary-jane https://www.goodreads.com/book/show/29715330-elementary-jane,N,,,,0,3884
-1895,Hamilton Aidé,M,Elizabeth's Pretenders,N,N,N,,Chapman and Hall,Y,0,0,"1,358",https://www.goodreads.com/book/show/38263799-elizabeth-s-pretenders https://www.goodreads.com/book/show/38263799-elizabeth-s-pretenders,N,,,,0,4881
+1895,Hamilton AidÃ©,M,Elizabeth's Pretenders,N,N,N,,Chapman and Hall,Y,0,0,"1,358",https://www.goodreads.com/book/show/38263799-elizabeth-s-pretenders https://www.goodreads.com/book/show/38263799-elizabeth-s-pretenders,N,,,,0,4881
 1900,James A. Wickersham,M,Enoch Willoughby: A Novel,N,N,N,,Downey,Y,0,0,"1,359",https://www.goodreads.com/book/show/38048337-enoch-willoughby https://www.goodreads.com/book/show/38048337-enoch-willoughby,N,,,,0,4584
 1900,Alfred Morris,M,"Eochaid the Heremhon: or, The Romance of the Lia Phail",N,N,N,,Robert Banks and Son,Y,0,0,"1,360",https://www.goodreads.com/book/show/14319434-eochaid-the-heremhon-or-the-romance-of-the-lia-phail https://www.goodreads.com/book/show/14319434-eochaid-the-heremhon-or-the-romance-of-the-lia-phail,N,,,,0,6109
 1895,George Slythe Street,M,Episodes,N,N,N,,William Heinemann,Y,0,0,"1,361",https://www.goodreads.com/book/show/26301880-episodes https://www.goodreads.com/book/show/26301880-episodes,N,,,,0,4972
@@ -1365,7 +1365,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Herbert C. MacIlwaine,M,Fate the Fiddler,N,N,N,,Archibald Constable,Y,0,0,"1,366",https://www.goodreads.com/book/show/39411458-fate-the-fiddler https://www.goodreads.com/book/show/39411458-fate-the-fiddler,N,,,,0,4673
 1898,Robert Williams Buchanan,M,Father Anthony: A Romance of To-day,N,N,N,,John Long,Y,0,0,"1,367",https://www.goodreads.com/book/show/30879555-father-anthony https://www.goodreads.com/book/show/30879555-father-anthony,N,,,,0,3800
 1896,Margaret Georgina Todd,F,Fellow Travellers,N,N,N,,Blackwood,Y,0,0,"1,368",https://www.goodreads.com/book/show/50064337-fellow-travellers https://www.goodreads.com/book/show/50064337-fellow-travellers,N,,,,0,906
-1900,Max Pemberton,M,Féo: A Romance,N,N,N,,Hodder and Stoughton,Y,0,0,"1,369",https://www.goodreads.com/book/show/30426291-feo-a-romance https://www.goodreads.com/book/show/30426291-feo-a-romance,N,,,,0,4106
+1900,Max Pemberton,M,FÃ©o: A Romance,N,N,N,,Hodder and Stoughton,Y,0,0,"1,369",https://www.goodreads.com/book/show/30426291-feo-a-romance https://www.goodreads.com/book/show/30426291-feo-a-romance,N,,,,0,4106
 1901,Mary Blundell,F,Fiander's Widow,N,N,N,,Longman,Y,0,0,"1,370",https://www.goodreads.com/book/show/30786959-fiander-s-widow https://www.goodreads.com/book/show/30786959-fiander-s-widow,N,,,,0,721
 1896,Joseph Hocking,M,Fields of Fair Renown,N,N,N,,"Ward, Lock",Y,0,0,"1,371",https://www.goodreads.com/book/show/31784624-fields-of-fair-renown https://www.goodreads.com/book/show/31784624-fields-of-fair-renown,N,,,,0,4313
 1901,Beatrice Whitby,F,Flower and Thorn,N,N,N,,Hurst and Blackett,Y,0,0,"1,372",https://www.goodreads.com/book/show/37293194-flower-and-thorn https://www.goodreads.com/book/show/37293194-flower-and-thorn,N,,,,0,2780
@@ -1393,7 +1393,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1899,William Sylvester Walker,M,From the Land of the Wombat,N,N,N,,John Long,Y,0,0,"1,394",https://www.goodreads.com/book/show/29716503-from-the-land-of-the-wombat https://www.goodreads.com/book/show/29716503-from-the-land-of-the-wombat,N,,,,0,3160
 1899,George Griffith,M,Gambles with Destiny,N,N,N,,F. V. White,Y,0,0,"1,395",https://www.goodreads.com/book/show/50570808-gambles-with-destiny https://www.goodreads.com/book/show/50570808-gambles-with-destiny,N,,,,0,5073
 1900,Kate A. Benton,F,"Geber: A Tale of the Reign of Harun Al Raschid, Khalif of Baghdad",N,N,N,,Grant Richards,Y,0,0,"1,396",https://www.goodreads.com/book/show/11778124-geber https://www.goodreads.com/book/show/11778124-geber,N,,,,0,1180
-1897,Nadage Dorée,F,"Gèlta: or, The Czar and the Cantatrice. A Novel",N,N,N,,John Macqueen,Y,0,0,"1,397",https://www.goodreads.com/book/show/30598358-gelta-or-the-czar-and-the-songstress https://www.goodreads.com/book/show/30598358-gelta-or-the-czar-and-the-songstress,N,,,,0,423
+1897,Nadage DorÃ©e,F,"GÃ¨lta: or, The Czar and the Cantatrice. A Novel",N,N,N,,John Macqueen,Y,0,0,"1,397",https://www.goodreads.com/book/show/30598358-gelta-or-the-czar-and-the-songstress https://www.goodreads.com/book/show/30598358-gelta-or-the-czar-and-the-songstress,N,,,,0,423
 1892,Walter Raymond,M,Gentleman Upcott's Daughter,N,N,N,,T. Fisher Unwin,Y,0,0,"1,398",https://www.goodreads.com/book/show/27443746-gentleman-upcott-s-daughter https://www.goodreads.com/book/show/27443746-gentleman-upcott-s-daughter,N,,,,0,3447
 1897,Gabriel Setoun,M,George Malcolm,N,N,N,,"Bliss, Sands, and Foster",Y,0,0,"1,399",https://www.goodreads.com/book/show/11915151-george-malcolm https://www.goodreads.com/book/show/11915151-george-malcolm,N,,,,0,5180
 1899,William Edward Norris,M,Giles Ingilby,N,N,N,,Methuen,Y,0,0,"1,400",https://www.goodreads.com/book/show/17568281-giles-ingilby https://www.goodreads.com/book/show/17568281-giles-ingilby,N,,,,0,3337
@@ -1543,7 +1543,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,F. Anstey,M,Love Among the Lions: A Matrimonial Experience,N,N,N,38657,J. M. Dent,Y,0,0,"1,544",https://www.goodreads.com/book/show/53229629-love-among-the-lions https://www.goodreads.com/book/show/53229629-love-among-the-lions,N,,,,0,5452
 1899,George Douglas Brown,M,Love and a Sword: A Tale of the Afridi War,N,N,N,,John Macqueen,Y,0,0,"1,545",https://www.goodreads.com/book/show/7955543-love-and-a-sword https://www.goodreads.com/book/show/7955543-love-and-a-sword,N,,,,0,5099
 1901,Mildred Emily Carr,F,Love and Honour,N,N,N,,"Smith, Elder",Y,0,0,"1,546",https://www.goodreads.com/book/show/27089828-love-and-honour https://www.goodreads.com/book/show/27089828-love-and-honour,N,,,,0,475
-1900,H. G.  Wells,M,Love and Mr. Lewisham,N,N,N,11640,Harper and Bros,Y,0,0,"1,547",https://www.goodreads.com/book/show/52385811-love-and-mr-lewisham-the-story-of-a-very-young-couple https://www.goodreads.com/book/show/52385811-love-and-mr-lewisham-the-story-of-a-very-young-couple,N,,,,5,61
+1900,H. G. Wells,M,Love and Mr. Lewisham,N,N,N,11640,Harper and Bros,Y,0,0,"1,547",https://www.goodreads.com/book/show/52385811-love-and-mr-lewisham-the-story-of-a-very-young-couple https://www.goodreads.com/book/show/52385811-love-and-mr-lewisham-the-story-of-a-very-young-couple,N,,,,5,61
 1894,Walter Raymond,M,Love and Quiet Life: Somerset Idylls,N,N,N,,Hodder and Stoughton,Y,0,0,"1,548",https://www.goodreads.com/book/show/26443833-love-and-quiet-life https://www.goodreads.com/book/show/26443833-love-and-quiet-life,N,,,,0,3450
 1901,S. R. Crockett,M,Love Idylls,N,N,N,,John Murray,Y,0,0,"1,549",https://www.goodreads.com/book/show/43464303-love-idylls-by-s-r-crockett https://www.goodreads.com/book/show/43464303-love-idylls-by-s-r-crockett,N,,,,0,3772
 1900,Orme Agnus,M,Love in our Village,N,N,N,,"Ward, Lock",Y,0,0,"1,550",https://www.goodreads.com/book/show/34924790-love-in-our-village https://www.goodreads.com/book/show/34924790-love-in-our-village,N,,,,0,4025
@@ -1693,8 +1693,8 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1895,Rhoda Broughton,F,Scylla or Charybdis?,N,N,N,,Bentley,Y,0,0,"1,694",https://www.goodreads.com/book/show/30941818-scylla-or-charybdis https://www.goodreads.com/book/show/30941818-scylla-or-charybdis,N,,,,0,362
 1894,Caroline C. Holroyd,F,Seething Days: A Romance of Tudor Times,N,N,N,,A. D. Innes,Y,0,0,"1,695",https://www.goodreads.com/book/show/18857314-seething-days https://www.goodreads.com/book/show/18857314-seething-days,N,,,,0,2707
 1898,Sarah Broom Macnaughtan,F,Selah Harrison,N,N,N,,Bentley,Y,0,0,"1,696",https://www.goodreads.com/book/show/30566883-selah-harrison https://www.goodreads.com/book/show/30566883-selah-harrison,N,,,,0,285
-1898,Archer Philip Crouch,M,Señorita Montenar,N,N,N,,"Smith, Elder",Y,0,0,"1,697",https://www.goodreads.com/book/show/31533658-senorita-montenar https://www.goodreads.com/book/show/31533658-senorita-montenar,N,,,,0,6040
-1898,Esmé Stuart,F,Sent to Coventry,N,N,N,,John Long,Y,0,0,"1,698",https://www.goodreads.com/book/show/27078344-sent-to-coventry https://www.goodreads.com/book/show/27078344-sent-to-coventry,N,,,,0,2010
+1898,Archer Philip Crouch,M,SeÃ±orita Montenar,N,N,N,,"Smith, Elder",Y,0,0,"1,697",https://www.goodreads.com/book/show/31533658-senorita-montenar https://www.goodreads.com/book/show/31533658-senorita-montenar,N,,,,0,6040
+1898,EsmÃ© Stuart,F,Sent to Coventry,N,N,N,,John Long,Y,0,0,"1,698",https://www.goodreads.com/book/show/27078344-sent-to-coventry https://www.goodreads.com/book/show/27078344-sent-to-coventry,N,,,,0,2010
 1901,Thomas Cobb,M,Severance: A Novel,N,N,N,,John Lane,Y,0,0,"1,699",https://www.goodreads.com/book/show/31231041-severance https://www.goodreads.com/book/show/31231041-severance,N,,,,0,3547
 1891,Elizabeth J. Lysaght,F,Sharp Tommy: A Story of Circus Life,N,N,N,,Blackie,Y,0,0,"1,700",https://www.goodreads.com/book/show/50362884-sharp-tommy https://www.goodreads.com/book/show/50362884-sharp-tommy,N,,,,0,2297
 1892,Amelia E. Barr,F,She Loved a Sailor,N,N,N,,James Clarke,Y,0,0,"1,701",https://www.goodreads.com/book/show/26284400-she-loved-a-sailor https://www.goodreads.com/book/show/26284400-she-loved-a-sailor,N,,,,0,2968
@@ -1712,7 +1712,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,Harold E. Gorst,M,Sketches of the Future,N,N,N,,John Macqueen,Y,0,0,"1,713",https://www.goodreads.com/book/show/38276213-sketches-of-the-future https://www.goodreads.com/book/show/38276213-sketches-of-the-future,N,,,,0,4861
 1899,Beulah Marie Dix,F,"Soldier Rigdale: How He Sailed in the ""Mayflower,"" and How He Served Miles Standish",N,N,N,44165,Macmillan,Y,0,0,"1,714",https://www.goodreads.com/book/show/7958403-soldier-rigdale https://www.goodreads.com/book/show/7958403-soldier-rigdale,N,,,,0,2739
 1898,Ernest William Hornung,M,Some Persons Unknown,N,N,N,45732,Cassell,Y,0,0,"1,715",https://www.goodreads.com/book/show/32444916-some-persons-unknown-by https://www.goodreads.com/book/show/32444916-some-persons-unknown-by,N,,,,0,5462
-1897,Ménie Muriel Dowie,F,Some Whims of Fate,N,N,N,,John Lane,Y,0,0,"1,716",https://www.goodreads.com/book/show/31899327-some-whims-of-fate https://www.goodreads.com/book/show/31899327-some-whims-of-fate,N,,,,0,478
+1897,MÃ©nie Muriel Dowie,F,Some Whims of Fate,N,N,N,,John Lane,Y,0,0,"1,716",https://www.goodreads.com/book/show/31899327-some-whims-of-fate https://www.goodreads.com/book/show/31899327-some-whims-of-fate,N,,,,0,478
 1896,Mary Angela Dickens,F,Some Women's Ways,N,N,N,,Jarrold and Son,Y,0,0,"1,717",https://www.goodreads.com/book/show/34915048-some-women-s-ways https://www.goodreads.com/book/show/34915048-some-women-s-ways,N,,,,0,757
 1893,Benjamin Leopold Farjeon,M,Something Occurred,N,N,N,,Routledge,Y,0,0,"1,718",https://www.goodreads.com/book/show/30492080-something-occurred https://www.goodreads.com/book/show/30492080-something-occurred,N,,,,0,5937
 1900,Eden Phillpotts,M,Sons of the Morning,N,N,N,46857,Methuen,Y,0,0,"1,719",https://www.goodreads.com/book/show/19527746-sons-of-the-morning https://www.goodreads.com/book/show/19527746-sons-of-the-morning,N,,,,0,5653
@@ -1923,7 +1923,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,Eleanor C. Price,F,The Little One,N,N,N,,Bentley,Y,0,0,"1,924",https://www.goodreads.com/book/show/30484308-the-little-one-volume-1 https://www.goodreads.com/book/show/30484308-the-little-one-volume-1,N,,,,0,2394
 1894,Amelia E. Barr,F,The Lone House,N,N,N,,Hodder and Stoughton,Y,0,0,"1,925",https://www.goodreads.com/book/show/29171725-the-lone-house https://www.goodreads.com/book/show/29171725-the-lone-house,N,,,,0,2971
 1898,Mary Crawford Fraser,F,The Looms of Time,N,N,N,,William Isbister,Y,0,0,"1,926",https://www.goodreads.com/book/show/37093366-the-looms-of-time https://www.goodreads.com/book/show/37093366-the-looms-of-time,N,,,,0,702
-1901,Hon Emily Anna Acland,F,The Lost Key: An International Episode,N,N,N,,John Macqueen,Y,0,0,"1,927",https://www.goodreads.com/book/show/29892784-the-lost-key https://www.goodreads.com/book/show/29892784-the-lost-key,N,,,,0,1362
+1901,Hon. Emily Anna Acland,F,The Lost Key: An International Episode,N,N,N,,John Macqueen,Y,0,0,"1,927",https://www.goodreads.com/book/show/29892784-the-lost-key https://www.goodreads.com/book/show/29892784-the-lost-key,N,,,,0,1362
 1898,Louis Tracy,M,The Lost Provinces: A Sequel to An American Emperor,N,N,N,,C. Arthur Pearson,Y,0,0,"1,928",https://www.goodreads.com/book/show/29300579-the-lost-provinces-how-vansittart-came-back-to-france https://www.goodreads.com/book/show/29300579-the-lost-provinces-how-vansittart-came-back-to-france,N,,,,0,4182
 1901,Ernest Glanville,M,The Lost Regiment,N,N,N,,Methuen,Y,0,0,"1,929",https://www.goodreads.com/book/show/33270637-the-lost-regiment https://www.goodreads.com/book/show/33270637-the-lost-regiment,N,,,,0,5480
 1895,Helen Mathers,F,The Lovely Malincourt: A Novel,N,N,N,,Jarrold and Son,Y,0,0,"1,930",https://www.goodreads.com/book/show/29785688-the-lovely-malincourt https://www.goodreads.com/book/show/29785688-the-lovely-malincourt,N,,,,0,1487
@@ -1955,7 +1955,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Gerald Beresford Fitzgerald,M,The Minor Canon,N,N,N,,"Digby, Long",Y,0,0,"1,956",https://www.goodreads.com/book/show/30878406-the-minor-canon https://www.goodreads.com/book/show/30878406-the-minor-canon,N,,,,0,4957
 1900,Kathleen Mannington Caffyn,F,The Minx,N,N,N,,Hutchinson,Y,0,0,"1,957",https://www.goodreads.com/book/show/30942481-the-minx https://www.goodreads.com/book/show/30942481-the-minx,N,,,,0,1123
 1891,L. B. Walford,F,The Mischief of Monica,N,N,N,,Longman,Y,0,0,"1,958",https://www.goodreads.com/book/show/27082065-the-mischief-of-monica https://www.goodreads.com/book/show/27082065-the-mischief-of-monica,N,,,,0,1116
-1898,Grace L.  Keith Johnston,F,The Mischief-Maker,N,N,N,,Bentley,Y,0,0,"1,959",https://www.goodreads.com/book/show/32258979-the-mischief-maker-volume-1 https://www.goodreads.com/book/show/32258979-the-mischief-maker-volume-1,N,,,,0,1574
+1898,Grace L. Keith Johnston,F,The Mischief-Maker,N,N,N,,Bentley,Y,0,0,"1,959",https://www.goodreads.com/book/show/32258979-the-mischief-maker-volume-1 https://www.goodreads.com/book/show/32258979-the-mischief-maker-volume-1,N,,,,0,1574
 1896,Rosa Nouchette Carey,F,The Mistress of Brae Farm: A Novel,N,N,N,,Bentley,Y,0,0,"1,960",https://www.goodreads.com/book/show/20525348-the-mistress-of-brae-farm https://www.goodreads.com/book/show/20525348-the-mistress-of-brae-farm,N,,,,0,323
 1895,Adeline Sergeant,F,The Mistress of Quest,N,N,N,,Hutchinson,Y,0,0,"1,961",https://www.goodreads.com/book/show/34956106-the-mistress-of-quest-a-novel-1895-by https://www.goodreads.com/book/show/34956106-the-mistress-of-quest-a-novel-1895-by,N,,,,0,3076
 1897,Frederick Thickstun Clark,M,The Mistress of the Ranch: A Novel,N,N,N,,Sampson Low,Y,0,0,"1,962",https://www.goodreads.com/book/show/32530194-the-mistress-of-the-ranch-a-novel https://www.goodreads.com/book/show/32530194-the-mistress-of-the-ranch-a-novel,N,,,,0,5205
@@ -1987,7 +1987,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,Amelia E. Barr,F,The Preacher's Daughter: A Domestic Romance,N,N,N,,Sampson Low,Y,0,0,"1,988",https://www.goodreads.com/book/show/28904667-the-preacher-s-daughter https://www.goodreads.com/book/show/28904667-the-preacher-s-daughter,N,,,,0,2972
 1900,Benjamin Leopold Farjeon,M,The Pride of Race: In Five Panels,N,N,N,,Hutchinson,Y,0,0,"1,989",https://www.goodreads.com/book/show/29822949-the-pride-of-race https://www.goodreads.com/book/show/29822949-the-pride-of-race,N,,,,0,5939
 1901,Marguerite Bryant,F,The Princess Cynthia,N,N,N,,Cassell,Y,0,0,"1,990",https://www.goodreads.com/book/show/37055625-the-princess-cynthia https://www.goodreads.com/book/show/37055625-the-princess-cynthia,N,,,,0,819
-1896,Clementina Black,F,The Princess Désirée,N,N,N,,Longman,Y,0,0,"1,991",https://www.goodreads.com/book/show/26296696-the-princess-desiree https://www.goodreads.com/book/show/26296696-the-princess-desiree,N,,,,0,2571
+1896,Clementina Black,F,The Princess DÃ©sirÃ©e,N,N,N,,Longman,Y,0,0,"1,991",https://www.goodreads.com/book/show/26296696-the-princess-desiree https://www.goodreads.com/book/show/26296696-the-princess-desiree,N,,,,0,2571
 1891,Joseph Hatton,M,The Princess Mazaroff: A Romance of the Day,N,N,N,,Hutchinson,Y,0,0,"1,992",https://www.goodreads.com/book/show/31720969-the-princess-mazaroff https://www.goodreads.com/book/show/31720969-the-princess-mazaroff,N,,,,0,4338
 1894,Henry Richard Savage,M,The Princess of Alaska: A Tale of Two Countries. A Novel,N,N,N,,Routledge,Y,0,0,"1,993",https://www.goodreads.com/book/show/31034445-the-princess-of-alaska https://www.goodreads.com/book/show/31034445-the-princess-of-alaska,N,,,,0,4703
 1894,Helen Hester Colvill,F,The Princess Royal,N,N,N,,Bentley,Y,0,0,"1,994",https://www.goodreads.com/book/show/31732717-the-princess-royal-volume-1 https://www.goodreads.com/book/show/31732717-the-princess-royal-volume-1,N,,,,0,1495
@@ -2064,7 +2064,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,Joseph Hocking,M,The Story of Andrew Fairfax,N,N,N,,"Ward, Lock",Y,0,0,"2,065",https://www.goodreads.com/book/show/30408181-the-story-of-andrew-fairfax https://www.goodreads.com/book/show/30408181-the-story-of-andrew-fairfax,N,,,,0,4316
 1891,Stanley John Weyman,M,The Story of Francis Cludde,N,N,N,39296,Cassell,Y,0,0,"2,066",https://www.goodreads.com/book/show/50574043-the-story-of-francis-cludde https://www.goodreads.com/book/show/50574043-the-story-of-francis-cludde,N,,,,0,3588
 1896,William James Dawson,M,The Story of Hannah,N,N,N,,Hodder and Stoughton,Y,0,0,"2,067",https://www.goodreads.com/book/show/29185375-the-story-of-hannah https://www.goodreads.com/book/show/29185375-the-story-of-hannah,N,,,,0,3260
-1894,David Storrar Meldrum,M,The Story of Margrédel: Being a Fireside History of a Fifeshire Family,N,N,N,,Blackwood,Y,0,0,"2,068",https://www.goodreads.com/book/show/31881371-the-story-of-margredel https://www.goodreads.com/book/show/31881371-the-story-of-margredel,N,,,,0,5682
+1894,David Storrar Meldrum,M,The Story of MargrÃ©del: Being a Fireside History of a Fifeshire Family,N,N,N,,Blackwood,Y,0,0,"2,068",https://www.goodreads.com/book/show/31881371-the-story-of-margredel https://www.goodreads.com/book/show/31881371-the-story-of-margredel,N,,,,0,5682
 1894,Lewis Henry Berens,M,The Story of my Dictatorship: The Taxation of Land Values Clearly Explained,N,N,N,,"Bliss, Sands, and Foster",Y,0,0,"2,069",https://www.goodreads.com/book/show/8022390-the-story-of-my-dictatorship https://www.goodreads.com/book/show/8022390-the-story-of-my-dictatorship,N,,,,0,4204
 1897,Harriett Jay,F,The Strange Adventures of Miss Brown,N,N,N,,Robert Buchanan,Y,0,0,"2,070",https://www.goodreads.com/book/show/29308337-the-strange-adventures-of-miss-brown https://www.goodreads.com/book/show/29308337-the-strange-adventures-of-miss-brown,N,,,,0,1518
 1895,Richard Marsh,M,The Strange Wooing of Mary Bowler,N,N,N,,C. Arthur Pearson,Y,0,0,"2,071",https://www.goodreads.com/book/show/29171477-the-strange-wooing-of-mary-bowler https://www.goodreads.com/book/show/29171477-the-strange-wooing-of-mary-bowler,N,,,,0,3913
@@ -2089,7 +2089,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1901,Hugh Stowell Scott,M,The Velvet Glove,N,N,N,10342,"Smith, Elder",Y,0,0,"2,090",https://www.goodreads.com/book/show/39472264-the-velvet-glove https://www.goodreads.com/book/show/39472264-the-velvet-glove,N,,,,1,124
 1901,Sibyl Mary Creed,F,The Vicar of St. Luke's,N,N,N,,Longman,Y,0,0,"2,091",https://www.goodreads.com/book/show/29290222-the-vicar-of-st-luke-s https://www.goodreads.com/book/show/29290222-the-vicar-of-st-luke-s,N,,,,0,259
 1898,Joseph Hatton,M,The Vicar: A Novel,N,N,N,,Hutchinson,Y,0,0,"2,092",https://www.goodreads.com/book/show/34346206-the-vicar https://www.goodreads.com/book/show/34346206-the-vicar,N,,,,0,4339
-1901,Sydney C.  Grier,F,The Warden of the Marches,N,N,N,,Blackwood,Y,0,0,"2,093",https://www.goodreads.com/book/show/29811509-the-warden-of-the-marches https://www.goodreads.com/book/show/29811509-the-warden-of-the-marches,N,,,,0,229
+1901,Sydney C. Grier,F,The Warden of the Marches,N,N,N,,Blackwood,Y,0,0,"2,093",https://www.goodreads.com/book/show/29811509-the-warden-of-the-marches https://www.goodreads.com/book/show/29811509-the-warden-of-the-marches,N,,,,0,229
 1897,William Morris,M,The Water of the Wondrous Isles,N,N,N,8778,Longman,Y,0,0,"2,094",https://www.goodreads.com/book/show/27757488-william-morris---the-water-of-the-wondrous-isles https://www.goodreads.com/book/show/27757488-william-morris---the-water-of-the-wondrous-isles,N,,,,1,109
 1893,Andrew Home,M,The Way and the Will,N,N,N,,R. T. S.,Y,0,0,"2,095",https://www.goodreads.com/book/show/14375655-the-way-and-the-will https://www.goodreads.com/book/show/14375655-the-way-and-the-will,N,,,,0,6065
 1895,Katharine Tynan,F,The Way of a Maid,N,N,N,,Lawrence and Bullen,Y,0,0,"2,096",https://www.goodreads.com/book/show/8281970-the-way-of-a-maid https://www.goodreads.com/book/show/8281970-the-way-of-a-maid,N,,,,0,1144
@@ -2111,7 +2111,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1899,Richard Marsh,M,The Woman with One Hand and Mr Ely's Engagement,N,N,N,40449,James Bowden,Y,0,0,"2,112",https://www.goodreads.com/book/show/36608519-the-woman-with-one-hand-and-mr-ely-s-engagement-mr-ely-s-engagement https://www.goodreads.com/book/show/36608519-the-woman-with-one-hand-and-mr-ely-s-engagement-mr-ely-s-engagement,N,,,,0,3914
 1901,Grace Rhys,F,The Wooing of Sheila,N,N,N,,Methuen,Y,0,0,"2,113",https://www.goodreads.com/book/show/14386546-the-wooing-of-sheila https://www.goodreads.com/book/show/14386546-the-wooing-of-sheila,N,,,,0,1560
 1898,Haldane Macfall,M,"The Wooings of Jezebel Pettyfer: Being the Personal History of Jehu Sennacherib Dyle, Commonly called Masheen Dyle",N,N,N,,Grant Richards,Y,0,0,"2,114",https://www.goodreads.com/book/show/23492055-the-wooings-of-jezebel-pettyfer https://www.goodreads.com/book/show/23492055-the-wooings-of-jezebel-pettyfer,N,,,,0,4896
-1900,Bradford Peck,M,The World a Department: A Story of Life under a Coöperative System,N,N,N,,Gay and Bird,Y,0,0,"2,115",https://www.goodreads.com/book/show/30668696-the-world-a-department-store-a-story-of-life-under-a-cooperative-system https://www.goodreads.com/book/show/30668696-the-world-a-department-store-a-story-of-life-under-a-cooperative-system,N,,,,1,138
+1900,Bradford Peck,M,The World a Department: A Story of Life under a CoÃ¶perative System,N,N,N,,Gay and Bird,Y,0,0,"2,115",https://www.goodreads.com/book/show/30668696-the-world-a-department-store-a-story-of-life-under-a-cooperative-system https://www.goodreads.com/book/show/30668696-the-world-a-department-store-a-story-of-life-under-a-cooperative-system,N,,,,1,138
 1898,Lilian Street,F,The World and Onora,N,N,N,,Duckworth and Co,Y,0,0,"2,116",https://www.goodreads.com/book/show/30891205-the-world-and-onora https://www.goodreads.com/book/show/30891205-the-world-and-onora,N,,,,0,1064
 1900,Maxwell Gray,F,The World's Mercy,N,N,N,,William Heinemann,Y,0,0,"2,117",https://www.goodreads.com/book/show/4634729-the-world-s-mercy https://www.goodreads.com/book/show/4634729-the-world-s-mercy,N,,,,0,506
 1895,Dorothea Gerard,F,The Wrong Man,N,N,N,,Blackwood,Y,0,0,"2,118",https://www.goodreads.com/book/show/18504316-the-wrong-man https://www.goodreads.com/book/show/18504316-the-wrong-man,N,,,,0,2510
@@ -2201,7 +2201,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,Erminda Rentoul Esler,F,Youth at the Prow: A Tale,N,N,N,,John Long,Y,0,0,"2,203",https://www.goodreads.com/book/show/31649659-youth-at-the-prow https://www.goodreads.com/book/show/31649659-youth-at-the-prow,N,,,,0,2031
 1895,Arthur Morrison,M,Zig Zags at the Zoo,N,N,N,,George Newnes,Y,0,0,"2,204",https://www.goodreads.com/book/show/22929142-zig-zags-at-the-zoo https://www.goodreads.com/book/show/22929142-zig-zags-at-the-zoo,N,,,,0,5998
 1899,Frederick Harrison,M,1779': A Story of Old Shoreham,N,N,N,,S. P. C. K,N,0,0,"2,205",,N,,,,0,5217
-1891,Albion Winegar Tourgée,M,89: Edited from the Original Manuscript,N,N,N,,Cassell,N,0,0,"2,206",,N,,,,0,6154
+1891,Albion Winegar TourgÃ©e,M,89: Edited from the Original Manuscript,N,N,N,,Cassell,N,0,0,"2,206",,N,,,,0,6154
 1893,Geraldine Edith Mitton,F,A Bachelor Girl in London,N,N,N,,Hutchinson,N,0,0,"2,207",,N,,,,0,1632
 1895,Henry F. Buller,M,A Bachelor's Family,N,N,N,,Hurst and Blackett,N,0,0,"2,208",,N,,,,0,4764
 1895,Caroline Emily Cameron,F,A Bad Lot,N,N,N,,F. V. White,N,0,0,"2,209",,N,,,,0,2688
@@ -2230,7 +2230,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1895,M. E. Le Clerc,F,A Bootless Bene,N,N,N,,Hurst and Blackett,N,0,0,"2,233",,N,,,,0,956
 1894,Henrietta Eliza Vaughan Stannard,F,A Born Soldier,N,N,N,,F. V. White,N,0,0,"2,234",,N,,,,0,1404
 1896,Charles Harold Avery,M,A Boy all Over,N,N,N,,Sampson Low,N,0,0,"2,235",,N,,,,0,5829
-1898,A. B.  Louis,U,A Branch of Laurel,N,N,N,,"Bliss, Sands, and Foster",N,0,0,"2,236",,N,,,,0,6353
+1898,A. B. Louis,U,A Branch of Laurel,N,N,N,,"Bliss, Sands, and Foster",N,0,0,"2,236",,N,,,,0,6353
 1900,Elizabeth Thomasina Meade,F,A Brave Poor Thing,N,N,N,,William Isbister,N,0,0,"2,237",,N,,,,0,2223
 1900,Emily Grace Harding,F,"A Brave Surrender: or, Honour's Reward",N,N,N,,Walter Scott,N,0,0,"2,238",,N,,,,0,2163
 1900,Anonymous,U,"A Brave Wanderer: or, The Path and the Lamp.  A Story for Boys and Girls",N,N,N,,Gall & Inglis,N,0,0,"2,239",,N,,,,0,6332
@@ -2291,7 +2291,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,Alfred Clark,M,A Dark Place of the Earth,N,N,N,,Sampson Low,N,0,0,"2,294",,N,,,,0,6125
 1899,Arthur Williams Marchmont,M,A Dash for a Throne,N,N,N,40907,Hutchinson,N,0,0,"2,295",,N,,,,0,5968
 1900,Eliza Fanny Pollard,F,A Daughter of France: A Story of Acadia,N,N,N,,Nelson and Sons,N,0,0,"2,296",,N,,,,0,2353
-1895,Henry Richard Savage,M,A Daughter of Judas: A Tale of New York City Fin-de-Siècle Life,N,N,N,,Routledge,N,0,0,"2,297",,N,,,,0,4704
+1895,Henry Richard Savage,M,A Daughter of Judas: A Tale of New York City Fin-de-SiÃ¨cle Life,N,N,N,,Routledge,N,0,0,"2,297",,N,,,,0,4704
 1899,A. M. Judd,U,A Daughter of Lilith,N,N,N,,Simpkin,N,0,0,"2,298",,N,,,,0,6347
 1894,Gertrude Dunn,F,A Daughter of Music,N,N,N,,William Heinemann,N,0,0,"2,299",,N,,,,0,1608
 1892,Jessie Krikorian,F,A Daughter of Mystery,N,N,N,,Griffith and Farran,N,0,0,"2,300",,N,,,,0,1223
@@ -2522,7 +2522,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Marie Connor,F,A Napoleon of the Press,N,N,N,,Hodder and Stoughton,N,0,0,"2,525",,N,,,,0,802
 1901,Mary Williamina Findlater,F,A Narrow Way,N,N,N,,Methuen,N,0,0,"2,526",,N,,,,0,525
 1896,Maggie Swan,F,A Neglected Privilege: The Story of a Modern Woman,N,N,N,,"Ward, Lock",N,0,0,"2,527",,N,,,,0,919
-1892,Esmé Stuart,F,A Nest of Royalists,N,N,N,,National Society's Depository,N,0,0,"2,528",,N,,,,0,2011
+1892,EsmÃ© Stuart,F,A Nest of Royalists,N,N,N,,National Society's Depository,N,0,0,"2,528",,N,,,,0,2011
 1898,M. E.  Winchester,F,A Nest of Skylarks: A Story,N,N,N,,Seeley,N,0,0,"2,529",,N,,,,0,960
 1896,Andrew Oswald Acworth,M,A New Eden,N,N,N,,"Ward, Lock",N,0,0,"2,530",,N,,,,0,6062
 1896,Alfred Smythe,M,A New Faust: A Novel,N,N,N,,"Digby, Long",N,0,0,"2,531",,N,,,,0,6107
@@ -2884,7 +2884,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1901,Melville Gray,F,Ardnarigh: A Novel Drawn from Life,N,N,N,,H. J. Drane,N,0,0,"2,887",,N,,,,0,481
 1893,Thomas A. Pinkerton,M,Arnold Bolsover's Love Story,N,N,N,,Swan Sonnenschein,N,0,0,"2,888",,N,,,,0,3558
 1896,Evelyn Ward Everett Green,F,"Arnold Inglehurst, the Preacher: A Story of the Fen Country",N,N,N,,J. F. Shaw,N,0,0,"2,889",,N,,,,0,1888
-1896,Esmé Stuart,F,Arrested: A Novel,N,N,N,,F. V. White,N,0,0,"2,890",,N,,,,0,2012
+1896,EsmÃ© Stuart,F,Arrested: A Novel,N,N,N,,F. V. White,N,0,0,"2,890",,N,,,,0,2012
 1898,Emma Leslie,F,Arthur Ranyard's Training,N,N,N,,R. T. S.,N,0,0,"2,891",,N,,,,0,2110
 1900,J. J. Danyell,U,"Arthur Tremayne: or, Nil desperandum.  A Romance",N,N,N,,Church of England Temperance Society,N,0,0,"2,892",,N,,,,0,6249
 1901,Emma Leslie,F,"Arthur's Inheritance: or, How he Conquered",N,N,N,,Blackie,N,0,0,"2,893",,N,,,,0,2111
@@ -3053,7 +3053,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,Wilhelmina Martha James,F,By Lantern-Light: A Tale of the Cornish Coast,N,N,N,,S. P. C. K.,N,0,0,"3,056",,N,,,,0,154
 1900,Archibald McIlroy,M,By Lone Craig-Linnie Burn,N,N,N,,T. Fisher Unwin,N,0,0,"3,057",,N,,,,0,6035
 1891,Robert Harborough Sherard,M,By Right not Law,N,N,N,,Cassell,N,0,0,"3,058",,N,,,,0,3850
-1893,Esmé Stuart,F,By Right of Succession,N,N,N,,Ward and Downey,N,0,0,"3,059",,N,,,,0,2013
+1893,EsmÃ© Stuart,F,By Right of Succession,N,N,N,,Ward and Downey,N,0,0,"3,059",,N,,,,0,2013
 1898,Walmer Downe,M,By Shamrock and Heather,N,N,N,,"Digby, Long",N,0,0,"3,060",,N,,,,0,3484
 1896,Emma Marshall,F,"By the North Sea: or, The Protector's Granddaughter",N,N,N,,Jarrold and Son,N,0,0,"3,061",,N,,,,0,2081
 1897,Wilhelmina Martha James,F,By the Rise of the River: Studies and Sketches in South Tynedale,N,N,N,,Chatto and Windus,N,0,0,"3,062",,N,,,,0,155
@@ -3116,7 +3116,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Henry Brereton Marriott Watson,M,Chloris of the Island: A Novel,N,N,N,,Harper and Bros,N,0,0,"3,119",,N,,,,0,4797
 1893,Florence Edith Burch,F,"Chris Willoughby: or, Against the Current. A Tale for Boys",N,N,N,,Nelson and Sons,N,0,0,"3,120",,N,,,,0,1828
 1896,Jeanie Ferry,F,"Chrissie's Faults: or, Fettered by Custom",N,N,N,,Sunday School Union,N,0,0,"3,121",,N,,,,0,1276
-1900,Esmé Stuart,F,Christalla: An Unknown Quantity,N,N,N,,Methuen,N,0,0,"3,122",,N,,,,0,2014
+1900,EsmÃ© Stuart,F,Christalla: An Unknown Quantity,N,N,N,,Methuen,N,0,0,"3,122",,N,,,,0,2014
 1895,G. Norway,F,"Christiaan, the Boy of Leyden: A Story Founded on Fact",N,N,N,,James Nisbet,N,0,0,"3,123",,N,,,,0,1648
 1894,Rosa Caroline Praed,F,Christina Chard: A Novel,N,N,N,,Chatto and Windus,N,0,0,"3,124",,N,,,,0,335
 1893,Emma Marshall,F,Christopher's New Home,N,N,N,,J. F. Shaw,N,0,0,"3,125",,N,,,,0,2082
@@ -3132,7 +3132,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1897,William Edward Norris,M,Clarisa Furiosa,N,N,N,,Methuen,N,0,0,"3,135",,N,,,,0,3350
 1893,Jean Middlemass,F,Claude and Maude,N,N,N,,Henry,N,0,0,"3,136",,N,,,,0,1288
 1897,Fergus Hume,M,Claude Duval of Ninety-five: A Romance of the Road,N,N,N,,"Digby, Long",N,0,0,"3,137",,N,,,,0,5413
-1893,Esmé Stuart,F,Claudea's Island,N,N,N,,Sampson Low,N,0,0,"3,138",,N,,,,0,2015
+1893,EsmÃ© Stuart,F,Claudea's Island,N,N,N,,Sampson Low,N,0,0,"3,138",,N,,,,0,2015
 1901,William Carleton Dawe,M,Claudia Pole: A Novel,N,N,N,,Hutchinson,N,0,0,"3,139",,N,,,,0,3400
 1896,C. M. Home,U,Claudius: A Sketch from the First Century,N,N,N,,Catholic Truth Society,N,0,0,"3,140",,N,,,,0,6306
 1895,Emma Marshall,F,"Clement and Georgie: or, Manners Makyth Man",N,N,N,,J. M. Dent,N,0,0,"3,141",,N,,,,0,2083
@@ -3140,7 +3140,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1894,Georg Moritz Ebers,M,Cleopatra: A Romance,N,N,N,,Sampson Low,N,0,0,"3,143",,N,,,,0,5174
 1894,Brian Rosegarth,U,Cliff Days,N,N,N,,T. Fisher Unwin,N,0,0,"3,144",,N,,,,0,6323
 1899,Harriet E. Colvile,F,Clipped Wings,N,N,N,,R. T. S.,N,0,0,"3,145",,N,,,,0,1522
-1891,E. De Sérant,U,Clouds of Black and Gold: A Novel,N,N,N,,"Digby, Long",N,0,0,"3,146",,N,,,,0,6287
+1891,E. De SÃ©rant,U,Clouds of Black and Gold: A Novel,N,N,N,,"Digby, Long",N,0,0,"3,146",,N,,,,0,6287
 1894,Anna Caroline Steele,F,Clove Pink: A Study from Memory,N,N,N,,Chapman and Hall,N,0,0,"3,147",,N,,,,0,2924
 1893,Headon Hill,M,Clues from a Detective's Camera,N,N,N,,Arrowsmith,N,0,0,"3,148",,N,,,,0,4826
 1898,Fred Whishaw,M,Clutterbuck's Treasure,N,N,N,46582,Griffith and Farran,N,0,0,"3,149",,N,,,,0,5253
@@ -3199,14 +3199,14 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1895,Alice Rea,F,Dalefolk,N,N,N,,Hurst and Blackett,N,0,0,"3,202",,N,,,,0,2980
 1900,Sidney Herbert Burchell,M,Daniel Herrick: A Romance of a News-Writer,N,N,N,,Gay and Bird,N,0,0,"3,203",,N,,,,0,3707
 1899,Alec John Dawson,M,Daniel Whyte: An Unfinished Biography,N,N,N,,Methuen,N,0,0,"3,204",,N,,,,0,6146
-1900,H.  Louisa Bedford,F,Daniel's Fallen Dagon,N,N,N,,R. T. S.,N,0,0,"3,205",,N,,,,0,1548
+1900,H. Louisa Bedford,F,Daniel's Fallen Dagon,N,N,N,,R. T. S.,N,0,0,"3,205",,N,,,,0,1548
 1891,Evelyn Ward Everett Green,F,Dare Lorimer's Heritage,N,N,N,,Hutchinson,N,0,0,"3,206",,N,,,,0,1891
 1895,Joyce Emmerson Preston Muddock,M,Dark Deeds,N,N,N,,Chatto and Windus,N,0,0,"3,207",,N,,,,0,4248
 1892,Henrietta Mary Batson,F,Dark: A Tale of the Down Country,N,N,N,,"Smith, Elder",N,0,0,"3,208",,N,,,,0,1372
 1894,Susan Rowley Richmond Lee,F,Darrell Chavasney: A Novel,N,N,N,,Jarrold and Son,N,0,0,"3,209",,N,,,,0,238
 1896,Maurice H. Hervey,M,Dartmoor,N,N,N,,Arrowsmith,N,0,0,"3,210",,N,,,,0,4121
 1899,William Romaine Paterson,M,Dartnell: A Bizarre Incident,N,N,N,,William Heinemann,,0,0,"3,211",,N,,,,0,3179
-1900,John C. Shannon,M,D'Aubisé: A Reminiscence,N,N,N,,Thomas Burleigh,N,0,0,"3,212",,N,,,,0,4438
+1900,John C. Shannon,M,D'AubisÃ©: A Reminiscence,N,N,N,,Thomas Burleigh,N,0,0,"3,212",,N,,,,0,4438
 1892,Hannah Lynch,F,Daughters of Men: A Novel,N,N,N,,William Heinemann,N,0,0,"3,213",,N,,,,0,1530
 1897,John Bickerdyke,M,Daughters of Thespis: A Story of the Green-room,N,N,N,,Simpkin,N,0,0,"3,214",,N,,,,0,4446
 1900,"BTAO ""Bird's Nest Farm""",U,Dauntless Dick,N,N,N,,Gall & Inglis,N,0,0,"3,215",,N,,,,0,6321
@@ -3220,7 +3220,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1895,Maurice H. Hervey,M,Dead Man's Court,N,N,N,,Arrowsmith,N,0,0,"3,223",,N,,,,0,4123
 1899,Ernest William Hornung,M,Dead Men Tell no Tales,N,N,N,1703,Methuen,N,0,0,"3,224",,N,,,,0,5463
 1899,Thomas A. Pinkerton,M,Dead Oppressors,N,N,N,,Swan Sonnenschein,N,0,0,"3,225",,N,,,,0,3561
-1898,E.  Livingston Prescott,F,Dearer than Honour: A Fool's Tragedy,N,N,N,,Hutchinson,N,0,0,"3,226",,N,,,,0,2489
+1898,E. Livingston Prescott,F,Dearer than Honour: A Fool's Tragedy,N,N,N,,Hutchinson,N,0,0,"3,226",,N,,,,0,2489
 1893,Emily Feake Bridges,F,Dearest,N,N,N,,Hurst and Blackett,N,0,0,"3,227",,N,,,,0,2166
 1898,Arnold Golsworthy,M,Death and the Woman: A Dramatic Novel,N,N,N,,Favourite Publishing Co,N,0,0,"3,228",,N,,,,0,6025
 1901,John Fraser,M,Death the Showman,N,N,N,,T. Fisher Unwin,N,0,0,"3,229",,N,,,,0,4410
@@ -3253,7 +3253,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1897,Charlotte Elizabeth Riddell,F,Did He Deserve It?,N,N,N,,Downey,N,0,0,"3,256",,N,,,,0,2644
 1899,Heber K. Daniels,M,Digby Ravelyn: A Novel,N,N,N,,Routledge,N,0,0,"3,257",,N,,,,0,4819
 1897,John Hill,M,Dinah Fleet,N,N,N,,Downey,N,0,0,"3,258",,N,,,,0,4399
-1898,Herbert C.  MacIlwaine,F,Dinkinbar,N,N,N,,Archibald Constable,N,0,0,"3,259",,N,,,,0,1368
+1898,Herbert C. MacIlwaine,F,Dinkinbar,N,N,N,,Archibald Constable,N,0,0,"3,259",,N,,,,0,1368
 1893,Nina H. Kennard,F,Diogenes' Sandals,N,N,N,,Remington,N,0,0,"3,260",,N,,,,0,405
 1895,Edith Jaffray Bigelow,F,Diplomatic Disenchantments: A Novel,N,N,N,,"Osgood, McIlvaine",N,0,0,"3,261",,N,,,,0,2441
 1893,Henry Cresswell,M,Disinherited,N,N,N,,Hurst and Blackett,N,0,0,"3,262",,N,,,,0,4789
@@ -3270,7 +3270,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1895,Evelyn Whitaker,F,Don,N,N,N,,W. & R. Chambers,N,0,0,"3,273",,N,,,,0,1873
 1892,Evelyn Ward Everett Green,F,"Don Carlos, Our Childhood's Hero",N,N,N,,S. P. C. K.,N,0,0,"3,274",,N,,,,0,1894
 1901,William Bury Westall,M,Don or Devil?,N,N,N,,C. Arthur Pearson,N,0,0,"3,275",,N,,,,0,3418
-1898,Heber K. Daniels,M,Doña Rufina: The Romance of a Cycle Tour,N,N,N,,Greening and Co,N,0,0,"3,276",,N,,,,0,4821
+1898,Heber K. Daniels,M,DoÃ±a Rufina: The Romance of a Cycle Tour,N,N,N,,Greening and Co,N,0,0,"3,276",,N,,,,0,4821
 1896,Alice Jane Briggs,F,Donald's Ambition,N,N,N,,Wesleyan Methodist Sunday School Union,N,0,0,"3,277",,N,,,,0,3017
 1896,Mary Crawford Fraser,F,Dora Murray's Ideal and How It Came to Her,N,N,N,,R. T. S.,N,0,0,"3,278",,N,,,,0,705
 1900,Matthias MacDonnell Bodkin,M,"Dora Myrl, the Lady Detective",N,N,N,,Chatto and Windus,N,0,0,"3,279",,N,,,,0,4130
@@ -3282,7 +3282,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,William Edward Tirebuck,M,Dorrie: A Novel,N,N,N,,Longman,N,0,0,"3,285",,N,,,,0,3331
 1896,Marion Andrews,F,Down the Village Street: Scenes in a West Country Hamlet,N,N,N,,Blackwood,N,0,0,"3,286",,N,,,,0,787
 1897,Rosa Nouchette Carey,F,Dr.  Luttrell's First Patient,N,N,N,,Hutchinson,N,0,0,"3,287",,N,,,,0,324
-1901,Maurice H.  Hervey,M,Dr.  Somerville's Crime,N,N,N,,Arrowsmith,N,0,0,"3,288",,N,,,,0,4126
+1901,Maurice H. Hervey,M,Dr.  Somerville's Crime,N,N,N,,Arrowsmith,N,0,0,"3,288",,N,,,,0,4126
 1892,William George Waters,M,Dr. Campion's Patients,N,N,N,,Eden,N,0,0,"3,289",,N,,,,0,3325
 1894,Adeline Sergeant,F,Dr. Endicott's Experiment,N,N,N,,Chatto and Windus,N,0,0,"3,290",,N,,,,0,3084
 1893,Isabel Reaney,F,Dr. Grey's Patient: A Novel,N,N,N,,"Bliss, Sands, and Foster",N,0,0,"3,291",,N,,,,0,1349
@@ -3348,7 +3348,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1892,Francis Francis,M,Eternal Enmity: A Novel,N,N,N,,F. V. White,N,0,0,"3,351",,N,,,,0,5352
 1901,William Edward Chadwick,M,Ethel Hardman: A Story of Self-Discipline,N,N,N,,S. P. C. K,N,0,0,"3,352",,N,,,,0,3360
 1900,Anne Shannon Monroe,F,Eugene Norton: A Tale from the Sagebush Land,N,N,N,,A. E.  Hubsch,N,0,0,"3,353",,N,,,,0,2893
-1895,Joyce Emmerson Preston Muddock,M,"Eugéne Vidocq. Soldier, Thief, Spy, Detective: A Romance Founded on Fact",N,N,N,,Hutchinson,N,0,0,"3,354",,N,,,,0,4250
+1895,Joyce Emmerson Preston Muddock,M,"EugÃ©ne Vidocq. Soldier, Thief, Spy, Detective: A Romance Founded on Fact",N,N,N,,Hutchinson,N,0,0,"3,354",,N,,,,0,4250
 1899,Owen Hall,M,Eureka,N,N,N,,Chatto and Windus,N,0,0,"3,355",,N,,,,0,4020
 1891,Linda Mazini,F,European Relations: A Tirolese Sketch,N,N,N,,T. Fisher Unwin,N,0,0,"3,356",,N,,,,0,1025
 1894,Evelyn Ward Everett Green,F,Eustace Marchmont: A Friend of the People,N,N,N,,J. F. Shaw,N,0,0,"3,357",,N,,,,0,1899
@@ -3378,7 +3378,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1897,Francis Prevost,M,False Dawn,N,N,N,,"Ward, Lock",N,0,0,"3,381",,N,,,,0,5339
 1897,Annie Bradshaw,F,False Gods,N,N,N,,Henry,N,0,0,"3,382",,N,,,,0,2891
 1895,Annie Thomas,F,False Pretences,N,N,N,,"Digby, Long",N,0,0,"3,383",,N,,,,0,2825
-1900,G.  Norway,F,Falsely Accused,N,N,N,,"Digby, Long",N,0,0,"3,384",,N,,,,0,1657
+1900,G. Norway,F,Falsely Accused,N,N,N,,"Digby, Long",N,0,0,"3,384",,N,,,,0,1657
 1892,William Henry Hudson,M,Fan: The Story of a Young Girl's Life,N,N,N,7827,Chapman and Hall,N,0,0,"3,385",,N,,,,0,3276
 1894,Florence Moore,F,Fanny Royston's Repentance: A Story for Wage-Earning Girls,N,N,N,,S. P. C. K.,N,0,0,"3,386",,N,,,,0,1798
 1898,Silas Weir Mitchell,M,Far in the Forest: A Story,N,N,N,,T. Fisher Unwin,N,0,0,"3,387",,N,,,,0,3678
@@ -3456,7 +3456,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Charles John Cutcliffe Hyne,M,Four Red Nightcaps,N,N,N,,John Macqueen,N,0,0,"3,459",,N,,,,0,5794
 1896,Annie Thomas,F,Four Women in the Case: A Novel,N,N,N,,F. V. White,N,0,0,"3,460",,N,,,,0,2826
 1901,Maxwell Gray,F,Four-Leaved Clover: An Everyday Romance,N,N,N,,William Heinemann,N,0,0,"3,461",,N,,,,0,509
-1899,George Webb Appleton,M,François the Valet,N,N,N,,C. Arthur Pearson,N,0,0,"3,462",,N,,,,0,4969
+1899,George Webb Appleton,M,FranÃ§ois the Valet,N,N,N,,C. Arthur Pearson,N,0,0,"3,462",,N,,,,0,4969
 1893,Robert Murray Gilchrist,M,Frangipanni: A Story of her Infatuation,N,N,N,,Frank Murray,N,0,0,"3,463",,N,,,,0,3822
 1901,Catherine Jane Hamilton,F,Frank and Flo on their Travels,N,N,N,,R. T. S.,N,0,0,"3,464",,N,,,,0,2666
 1897,George Manville Fenn,M,Frank and Saxon: A Tale of the Days of Good Queen Bess,N,N,N,,S. P. C. K,N,0,0,"3,465",,N,,,,0,5042
@@ -3485,7 +3485,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1901,Frederick Harrison,M,From Playground to Battlefield,N,N,N,,S. P. C. K,N,0,0,"3,488",,N,,,,0,5218
 1895,William Gordon Stables,M,From Ploughshare to Pulpit: A Tale of the Battle of Life,N,N,N,,James Nisbet,N,0,0,"3,489",,N,,,,0,3300
 1893,Alfred Henry Lambton,M,From Prison to Power: A Tale of Queensland,N,N,N,,Remington,N,0,0,"3,490",,N,,,,0,6118
-1891,Ferdinand Mansel Peacock,M,"From Reveillé to Lights Out: or, Lionel Tregarthen, Lieutenant",N,N,N,,Gale & Polden,N,0,0,"3,491",,N,,,,0,5425
+1891,Ferdinand Mansel Peacock,M,"From ReveillÃ© to Lights Out: or, Lionel Tregarthen, Lieutenant",N,N,N,,Gale & Polden,N,0,0,"3,491",,N,,,,0,5425
 1900,James Macdonald Oxley,M,From Rung to Rung,N,N,N,,Charles H. Kelly,N,0,0,"3,492",,N,,,,0,4513
 1893,Frank Frankfort Moore,M,From the Bush to the Breakers,N,N,N,,S. P. C. K.,N,0,0,"3,493",,N,,,,0,5300
 1894,Frederick Boyle,M,From the Frontier,N,N,N,,Chapman and Hall,N,0,0,"3,494",,N,,,,0,5221
@@ -3555,7 +3555,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Mark Ashton,U,"Haggith Shy, Quakeress",N,N,N,,Hutchinson,N,0,0,"3,558",,N,,,,0,6230
 1901,William Theodore Hickman,M,Half my Life,N,N,N,,Edward Arnold,N,0,0,"3,559",,N,,,,0,3159
 1896,May Crommelin,F,Half Round the World for a Husband: A Comedy of Errors,N,N,N,,T. Fisher Unwin,N,0,0,"3,560",,N,,,,0,497
-1896,Hélène E. A. Gingold,F,Half-a-Dozen Transgressions,N,N,N,,Iliffe and Son,N,0,0,"3,561",,N,,,,0,1450
+1896,HÃ©lÃ¨ne E. A. Gingold,F,Half-a-Dozen Transgressions,N,N,N,,Iliffe and Son,N,0,0,"3,561",,N,,,,0,1450
 1891,Jennie Chappell,F,"Hand in Hand: or, Radiance at Beechdale",N,N,N,,J. F. Shaw,N,0,0,"3,562",,N,,,,0,1252
 1895,Sir Randal Howland Roberts,M,Handicapped: A Novel,N,N,N,,F. V. White,N,0,0,"3,563",,N,,,,0,3628
 1899,Arnold Golsworthy,M,Hands in the Darkness,N,N,N,,C. Arthur Pearson,N,0,0,"3,564",,N,,,,0,6026
@@ -3642,7 +3642,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,Joseph Fitzgerald Molloy,M,His Wife's Soul,N,N,N,,Hutchinson,N,0,0,"3,645",,N,,,,0,4352
 1897,Mary H. Debenham,F,Holiday Tasks: A Story for Children,N,N,N,,Jarrold and Son,N,0,0,"3,646",,N,,,,0,606
 1898,Frances A. Coldicott,U,Hollinhurst,N,N,N,,Chapman and Hall,N,0,0,"3,647",,N,,,,0,6267
-1891,Adèle Crafton Smith,F,Holly: A Novel,N,N,N,,Trischler,N,0,0,"3,648",,N,,,,0,3105
+1891,AdÃ¨le Crafton Smith,F,Holly: A Novel,N,N,N,,Trischler,N,0,0,"3,648",,N,,,,0,3105
 1891,Charles Thomas Clement James,M,Holy Wedlock: A Story of Things as They Are,N,N,N,,Ward and Downey,N,0,0,"3,649",,N,,,,0,5768
 1900,Elisabeth Boyd Bayly,F,"Honor Greenleaf: or, Enjoying Poor Health",N,N,N,,Jarrold and Son,N,0,0,"3,650",,N,,,,0,2373
 1892,Amy Clarke,F,Honor Pentreath: A Story in Two Parts,N,N,N,,S. P. C. K.,N,0,0,"3,651",,N,,,,0,2940
@@ -3723,14 +3723,14 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,Gertrude Minnie Robins,F,In the Balance,N,N,N,,Hurst and Blackett,N,0,0,"3,726",,N,,,,0,1596
 1897,Alec John Dawson,M,In the Bight of Benin,N,N,N,,Lawrence and Bullen,N,0,0,"3,727",,N,,,,0,6148
 1901,William Sylvester Walker,M,In the Blood,N,N,N,,John Long,N,0,0,"3,728",,N,,,,0,3162
-1899,Esmé Stuart,F,In the Dark,N,N,N,,John Long,N,0,0,"3,729",,N,,,,0,2016
+1899,EsmÃ© Stuart,F,In the Dark,N,N,N,,John Long,N,0,0,"3,729",,N,,,,0,2016
 1896,John Edward Bloundelle Burton,M,In the Day of Adversity: A Romance,N,N,N,33643,Methuen,N,0,0,"3,730",,N,,,,0,4420
 1894,John Alexander Steuart,M,In the Day of Battle: A Romance,N,N,N,,Sampson Low,N,0,0,"3,731",,N,,,,0,4456
 1893,Evelyn Ward Everett Green,F,In the Days of Chivalry: A Tale of the Times of the Black Prince,N,N,N,13183,Nelson and Sons,N,0,0,"3,732",,N,,,,0,1914
 1898,Sidney Herbert Burchell,M,"In the Days of King James: or, Romances of London in the Olden Time",N,N,N,,Gay and Bird,N,0,0,"3,733",,N,,,,0,3708
 1891,Lily Watson,F,In the Days of Mozart: The Story of a Young Musician,N,N,N,,R. T. S.,N,0,0,"3,734",,N,,,,0,1031
 1901,Gertrude Hollis,F,In the Days of Saint Anselm,N,N,N,,S. P. C. K,N,0,0,"3,735",,N,,,,0,1603
-1891,Anna Harriet Drury,F,"In the Enemy's Country: or, The Raven of Steinbrück. A Story of 1813",N,N,N,,Griffith and Farran,N,0,0,"3,736",,N,,,,0,2919
+1891,Anna Harriet Drury,F,"In the Enemy's Country: or, The Raven of SteinbrÃ¼ck. A Story of 1813",N,N,N,,Griffith and Farran,N,0,0,"3,736",,N,,,,0,2919
 1894,Frances L. Marshall,F,In the Face of the World: A Novel,N,N,N,,Chatto and Windus,N,0,0,"3,737",,N,,,,0,1689
 1893,Henry Cadwallader Adams,M,In the Fifteen: A Tale of the First Jacobite Insurrection,N,N,N,,Hodder and Stoughton,N,0,0,"3,738",,N,,,,0,4795
 1895,Georg Moritz Ebers,M,In the Fire of the Forge: A Romance of Old Nuremberg,N,N,N,5551,Sampson Low,N,0,0,"3,739",,N,,,,0,5175
@@ -3754,7 +3754,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,Emma Marshall,F,In the Purple,N,N,N,,James Nisbet,N,0,0,"3,757",,N,,,,0,2085
 1901,Marie Connor,F,In the Shadow of Guilt: A Novel,N,N,N,,Grant Richards,N,0,0,"3,758",,N,,,,0,803
 1899,Mary Bidder,F,In the Shadow of the Crown,N,N,N,,Archibald Constable,N,0,0,"3,759",,N,,,,0,734
-1898,Henry Richard Savage,M,"In the Shadow of the Pyramids: The Last Days of Ismail Khédive, 1879.  A Novel",N,N,N,,Routledge,N,0,0,"3,760",,N,,,,0,4709
+1898,Henry Richard Savage,M,"In the Shadow of the Pyramids: The Last Days of Ismail KhÃ©dive, 1879.  A Novel",N,N,N,,Routledge,N,0,0,"3,760",,N,,,,0,4709
 1898,Blanche Mary Loftus Tottenham,F,In the Shadow of the Three,N,N,N,,Hutchinson,N,0,0,"3,761",,N,,,,0,2717
 1895,Iza Duffus Hardy,F,In the Springtime of Love,N,N,N,,C. Arthur Pearson,N,0,0,"3,762",,N,,,,0,1318
 1895,Frances L. Marshall,F,In the Sweet West Country,N,N,N,,F. V. White,N,0,0,"3,763",,N,,,,0,1690
@@ -3762,7 +3762,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Anonymous,U,In the Toils,N,N,N,,William Stevens,N,0,0,"3,765",,N,,,,0,6335
 1900,Bessie Marchant,F,In the Toils of the Tribesmen: A Story of the Indian Frontier,N,N,N,,Gall & Inglis,N,0,0,"3,766",,N,,,,0,2753
 1893,Edith Oenome Somerville,F,In the Vine Country,N,N,N,,W. H. Allen,N,0,0,"3,767",,N,,,,0,2420
-1900,Arthur St.  John Adcock,M,In the Wake of War,N,N,N,,Hodder and Stoughton,N,0,0,"3,768",,N,,,,0,5982
+1900,Arthur St. John Adcock,M,In the Wake of War,N,N,N,,Hodder and Stoughton,N,0,0,"3,768",,N,,,,0,5982
 1891,Evelyn Ward Everett Green,F,In the War of the Roses: A Story for the Young,N,N,N,15769,Nelson and Sons,N,0,0,"3,769",,N,,,,0,1915
 1896,Adeline Sergeant,F,In the Wilderness,N,N,N,,Nelson and Sons,N,0,0,"3,770",,N,,,,0,3086
 1899,Geraldine Emma Hodgson,F,In the Wilderness of this World,N,N,N,,Lawrence and Bullen,N,0,0,"3,771",,N,,,,0,1631
@@ -3770,7 +3770,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Major Arthur George Frederick Griffiths,M,In Tight Places: Some Experiences of an Amateur Detective,N,N,N,,Jarrold and Son,N,0,0,"3,773",,N,,,,0,4154
 1893,Samuel Gordon,M,In Years of Transition,N,N,N,,"Bliss, Sands, and Foster",N,0,0,"3,774",,N,,,,0,3731
 1892,Harriette Emma Burch,F,"Ina and Kitty: or, The Little Flower Girl and her Friend",N,N,N,,R. T. S.,N,0,0,"3,775",,N,,,,0,1515
-1894,Esmé Stuart,F,Inscrutable,N,N,N,,"Bliss, Sands, and Foster",N,0,0,"3,776",,N,,,,0,2017
+1894,EsmÃ© Stuart,F,Inscrutable,N,N,N,,"Bliss, Sands, and Foster",N,0,0,"3,776",,N,,,,0,2017
 1891,Bithia Mary Croker,F,Interference: A Novel,N,N,N,,F. V. White,N,0,0,"3,777",,N,,,,0,2733
 1897,Henrietta Eliza Vaughan Stannard,F,Into an Unknown World: A Novel,N,N,N,,F. V. White,N,0,0,"3,778",,N,,,,0,1424
 1901,Amy Clarke,F,Into Stormy Waters,N,N,N,,Sunday School Union,N,0,0,"3,779",,N,,,,0,2942
@@ -3804,7 +3804,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,James Greenwood,M,Jalaberd's Bumps: A Phrenological Experiment,N,N,N,,Griffith and Farran,N,0,0,"3,807",,N,,,,0,4558
 1897,Anna Howarth,F,Jan: An Afrikander,N,N,N,,"Smith, Elder",N,0,0,"3,808",,N,,,,0,2917
 1891,Emma Newman,F,Jane,N,N,N,,S. P. C. K.,N,0,0,"3,809",,N,,,,0,2052
-1899,Hamilton Aidé,M,Jane Treachel,N,N,N,,Hurst and Blackett,N,0,0,"3,810",,N,,,,0,4882
+1899,Hamilton AidÃ©,M,Jane Treachel,N,N,N,,Hurst and Blackett,N,0,0,"3,810",,N,,,,0,4882
 1894,Ella Napier Lefroy,F,Janet Delille,N,N,N,,Hurst and Blackett,N,0,0,"3,811",,N,,,,0,2207
 1891,Margaret Oliphant,F,Janet: The Story of a Governess,N,N,N,,Hurst and Blackett,N,0,0,"3,812",,N,,,,0,897
 1898,Frances E. Reade,M,Janie Fletcher,N,N,N,,S. P. C. K,N,0,0,"3,813",,N,,,,0,5368
@@ -3843,7 +3843,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1894,Eleanor C. Price,F,John's Lily,N,N,N,,"Wells, Gardner, Darton",N,0,0,"3,846",,N,,,,0,2398
 1900,Annie Victoria Dutton,F,Jonathan Toms,N,N,N,,National Society's Depository,N,0,0,"3,847",,N,,,,0,2815
 1901,Emily Hester Brodrick,F,Joscelyn's Pictures,N,N,N,,Simpkin,N,0,0,"3,848",,N,,,,0,2161
-1900,Mary Bradford Whiting,F,Josée: An Australian Story,N,N,N,,R. T. S.,N,0,0,"3,849",,N,,,,0,714
+1900,Mary Bradford Whiting,F,JosÃ©e: An Australian Story,N,N,N,,R. T. S.,N,0,0,"3,849",,N,,,,0,714
 1901,Alec John Dawson,M,"Joseph Khassan, Half-Caste",N,N,N,,William Heinemann,N,0,0,"3,850",,N,,,,0,6149
 1895,Israel Zangwill,M,Joseph the Dreamer,N,N,N,,William Heinemann,N,0,0,"3,851",,N,,,,0,4596
 1891,Frances L. Marshall,F,Joseph's Little Coat,N,N,N,,R. T. S.,N,0,0,"3,852",,N,,,,0,1691
@@ -3973,7 +3973,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,Elizabeth Burgoyne Corbett,F,Little Miss Robinson Crusoe,N,N,N,,C. Arthur Pearson,N,0,0,"3,976",,N,,,,0,2311
 1899,Amy Clarke,F,Little Miss Vanity,N,N,N,,Blackie,N,0,0,"3,977",,N,,,,0,2944
 1893,Evelyn Ward Everett Green,F,Little Miss Vixen,N,N,N,,Oliphant,N,0,0,"3,978",,N,,,,0,1921
-1894,Mary Helena Cornwall-Legh,F,"Little Orphans: or, The Story of Trüdchen and Darling",N,N,N,,Nelson and Sons,N,0,0,"3,979",,N,,,,0,595
+1894,Mary Helena Cornwall-Legh,F,"Little Orphans: or, The Story of TrÃ¼dchen and Darling",N,N,N,,Nelson and Sons,N,0,0,"3,979",,N,,,,0,595
 1892,Emma Marshall,F,Little Queenie: A Story of Child-life Sixty Years Ago,N,N,N,,J. F. Shaw,N,0,0,"3,980",,N,,,,0,2089
 1895,Emma Marshall,F,"Lizette and Her Mission: or, Over the Moor",N,N,N,,James Nisbet,N,0,0,"3,981",,N,,,,0,2090
 1900,S. H. Parr,U,Lizzie Long: A Tale of Peasant Life 150 Years Ago,N,N,N,,Jarrold and Son,N,0,0,"3,982",,N,,,,0,6208
@@ -3998,7 +3998,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,Francesca Maria Steele,F,Lottie's Wooing,N,N,N,,Hutchinson,N,0,0,"4,001",,N,,,,0,1660
 1900,Helen Wallace,F,Lotus or Laurel?,N,N,N,,Edward Arnold,N,0,0,"4,002",,N,,,,0,1454
 1894,Sarah Doudney,F,Louie's Married Life,N,N,N,,Partridge,N,0,0,"4,003",,N,,,,0,278
-1901,Ménie Muriel Dowie,F,Love and his Mask,N,N,N,,William Heinemann,N,0,0,"4,004",,N,,,,0,479
+1901,MÃ©nie Muriel Dowie,F,Love and his Mask,N,N,N,,William Heinemann,N,0,0,"4,004",,N,,,,0,479
 1896,Louise Marston,F,Love Conquers: The Story of Madge Morton,N,N,N,,J. F. Shaw,N,0,0,"4,005",,N,,,,0,986
 1896,Gertrude Dunn,F,Love for a Key,N,N,N,,William Heinemann,N,0,0,"4,006",,N,,,,0,1610
 1900,Frederick Langbridge,M,Love has no Pity: A Novel,N,N,N,,"Digby, Long",N,0,0,"4,007",,N,,,,0,5212
@@ -4018,7 +4018,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Conrad Hawthorne Carroder,M,Love's Guerdon: A Romance of the West Country,N,N,N,,F. V. White,N,0,0,"4,021",,N,,,,0,5728
 1891,Evelyn Ward Everett Green,F,Loyal Hearts: A Story of the Days of Good Queen Bess,N,N,N,,Nelson and Sons,N,0,0,"4,022",,N,,,,0,1922
 1894,Magdalen Harriet Mary Capes,F,Loyal to his Trust,N,N,N,,Sunday School Union,N,0,0,"4,023",,N,,,,0,924
-1901,Alfred Armitage,M,"Loyal to Napoleon: or, The Young Spy to Fouché",N,N,N,,John Macqueen,N,0,0,"4,024",,N,,,,0,6129
+1901,Alfred Armitage,M,"Loyal to Napoleon: or, The Young Spy to FouchÃ©",N,N,N,,John Macqueen,N,0,0,"4,024",,N,,,,0,6129
 1898,Jeanie Ferry,F,Loyalty Rewarded,N,N,N,,Robert Culley,N,0,0,"4,025",,N,,,,0,1281
 1895,Augusta Zelia Fraser,F,"Lucilla, an Experiment",N,N,N,,Kegan Paul,N,0,0,"4,026",,N,,,,0,2801
 1898,Harry Longley Lander,M,Lucky Bargee,N,N,N,,C. Arthur Pearson,N,0,0,"4,027",,N,,,,0,4850
@@ -4030,9 +4030,9 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Harry Lindsay,M,Mab,N,N,N,,Horace Marshall and Son,N,0,0,"4,033",,N,,,,0,4856
 1899,William Edward Cule,M,"Mabel's Prince Wonderful: or, A Trip to Storyland",N,N,N,,W. & R. Chambers,N,0,0,"4,034",,N,,,,0,3357
 1900,Iza Duffus Hardy,F,Mac Gilleroy's Millions,N,N,N,,Simpkin,N,0,0,"4,035",,N,,,,0,1319
-1899,Rosa Caroline Praed,F,Madam Izàn: A Tourist Story,N,N,N,,Chatto and Windus,N,0,0,"4,036",,N,,,,0,337
+1899,Rosa Caroline Praed,F,Madam IzÃ n: A Tourist Story,N,N,N,,Chatto and Windus,N,0,0,"4,036",,N,,,,0,337
 1901,Ester Dale,F,"Madame Marie, Singer",N,N,N,,Leadenhall Press,N,0,0,"4,037",,N,,,,0,2003
-1892,Francis Charles Philips,M,Madame Valérie: A Novel,N,N,N,,William Heinemann,N,0,0,"4,038",,N,,,,0,5363
+1892,Francis Charles Philips,M,Madame ValÃ©rie: A Novel,N,N,N,,William Heinemann,N,0,0,"4,038",,N,,,,0,5363
 1899,Marion Clifford Butler,F,Madcap Meg: A Tale,N,N,N,,S. P. C. K,N,0,0,"4,039",,N,,,,0,778
 1891,Arthur Williams Marchmont,M,Madeline Power,N,N,N,,Oliphant,N,0,0,"4,040",,N,,,,0,5971
 1894,Jennie Chappell,F,"Madeline: or, The Tale of a Haunted House",N,N,N,,Partridge,N,0,0,"4,041",,N,,,,0,1254
@@ -4052,7 +4052,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1897,Hattil Edward Foll,M,Major Carlile,N,N,N,,"Digby, Long",N,0,0,"4,055",,N,,,,0,4844
 1896,James Macdonald Oxley,M,Making his Way: A Tale for Boys,N,N,N,,Nelson and Sons,N,0,0,"4,056",,N,,,,0,4516
 1900,Alexander R. Craib,M,Malcolm Ross: A Romance,N,N,N,,Elliot Stock,N,0,0,"4,057",,N,,,,0,6132
-1901,Stella M. Düring,F,Malicious Fortune,N,N,N,,George Allen,N,0,0,"4,058",,N,,,,0,251
+1901,Stella M. DÃ¼ring,F,Malicious Fortune,N,N,N,,George Allen,N,0,0,"4,058",,N,,,,0,251
 1897,A. B. Louis,U,Mallerton,N,N,N,,"Bliss, Sands, and Foster",N,0,0,"4,059",,N,,,,0,6351
 1899,Edward Frederic Benson,M,Mammon and Co.,N,N,N,40797,William Heinemann,N,0,0,"4,060",,N,,,,0,5595
 1892,Mrs. Alexander,F,Mammon: A Novel,N,N,N,,William Heinemann,N,0,0,"4,061",,N,,,,0,465
@@ -4085,7 +4085,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1895,Frank Attfield Fawkes,M,"Marmaduke, Emperor of Europe: Being a Record of Some Strange Adventures",N,N,N,,Edmund Durrant and Co,N,0,0,"4,088",,N,,,,0,5327
 1901,Frank Challice Constable,M,Marrables' Magnificent Idea,N,N,N,,Blackwood,N,0,0,"4,089",,N,,,,0,5312
 1891,Albert Kevill Davies,M,Marriage up to Date,N,N,N,,F. V. White,N,0,0,"4,090",,N,,,,0,6169
-1895,Esmé Stuart,F,Married to Order: A Romance of Modern Days,N,N,N,,Horace Cox,N,0,0,"4,091",,N,,,,0,2018
+1895,EsmÃ© Stuart,F,Married to Order: A Romance of Modern Days,N,N,N,,Horace Cox,N,0,0,"4,091",,N,,,,0,2018
 1898,Alfred Walter Barrett,M,Martha and I: Being Scenes from our Suburban Life,N,N,N,,Jarrold and Son,N,0,0,"4,092",,N,,,,0,6103
 1895,Mabel Quiller-Couch,F,"Martha's Trial: or, Truth will Prevail",N,N,N,,Sunday School Union,N,0,0,"4,093",,N,,,,0,929
 1892,Ethel Forster Heddle,F,Martin Redfern's Oath,N,N,N,,Partridge,N,0,0,"4,094",,N,,,,0,1992
@@ -4099,7 +4099,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1895,Louise Frances Field,F,"Master Magnus: or, The Prince, the Princess and the Dragon",N,N,N,,Edward Arnold,N,0,0,"4,103",,N,,,,0,990
 1894,Marion Clifford Butler,F,Master Molyneux: A Tale,N,N,N,,S. P. C. K.,N,0,0,"4,104",,N,,,,0,779
 1891,Lady Constance Howard,F,Master of Her Life: A Novel,N,N,N,,F. V. White,N,0,0,"4,105",,N,,,,0,1096
-1901,E. Philllips Oppenheim,M,Master of Men,N,N,N,40455,Methuen,N,0,0,"4,106",,N,,,,0,5661
+1901,E. Phillips Oppenheim,M,Master of Men,N,N,N,40455,Methuen,N,0,0,"4,106",,N,,,,0,5661
 1898,Isabel Suart Robson,F,Master Piers,N,N,N,,Robert Culley,N,0,0,"4,107",,N,,,,0,1341
 1895,Eliza Margaret von Booth,F,Master Wilberforce: A Story of a Boy,N,N,N,,Hutchinson,N,0,0,"4,108",,N,,,,0,2337
 1892,Israel Zangwill,M,Mated by a Writer,N,N,N,,Arrowsmith,N,0,0,"4,109",,N,,,,0,4597
@@ -4200,7 +4200,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1894,Emma Marshall,F,"Mother and Son: or, ""I Will""",N,N,N,,Home Words Publishing Office,N,0,0,"4,205",,N,,,,0,2091
 1900,Edwin William Pugh,M,Mother-Sister,N,N,N,,Hurst and Blackett,N,0,0,"4,206",,N,,,,0,5510
 1892,William Carleton Dawe,M,Mount Desolation: An Australian Romance,N,N,N,,Cassell,N,0,0,"4,207",,N,,,,0,3402
-1901,Clive Holland,M,Mousmé,N,N,N,,C. Arthur Pearson,N,0,0,"4,208",,N,,,,0,5750
+1901,Clive Holland,M,MousmÃ©,N,N,N,,C. Arthur Pearson,N,0,0,"4,208",,N,,,,0,5750
 1892,May Crommelin,F,Mr. and Mrs. Herries: A Novel,N,N,N,,Hutchinson,N,0,0,"4,209",,N,,,,0,499
 1894,Percy White,M,Mr. Bailey-Martin: A Novel,N,N,N,,William Heinemann,N,0,0,"4,210",,N,,,,0,3990
 1891,Horace Gordon Hutchinson,M,"Mr. Batter's Pedigree: or, Experiences of a Tenderfoot",N,N,N,,Henry,N,0,0,"4,211",,N,,,,0,4642
@@ -4280,7 +4280,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,Mary Eliza Bramston,F,Neal Russell: The Story of a Brave Man,N,N,N,,Swan Sonnenschein,N,0,0,"4,285",,N,,,,0,686
 1893,Jennie Chappell,F,"Neath April Skies: or, Hope Amid the Shadows",N,N,N,,Partridge,N,0,0,"4,286",,N,,,,0,1259
 1899,George Manville Fenn,M,Ned Leger: The Adventures of a Middy on the Spanish Main,N,N,N,,S. P. C. K,N,0,0,"4,287",,N,,,,0,5046
-1891,Nadage Dorée,F,"Nedia, the American Virgin: A Novel",N,N,N,,Gay and Bird,N,0,0,"4,288",,N,,,,0,424
+1891,Nadage DorÃ©e,F,"Nedia, the American Virgin: A Novel",N,N,N,,Gay and Bird,N,0,0,"4,288",,N,,,,0,424
 1893,Alice Jane Briggs,F,"Ned's Victory, and Dick's Enemy",N,N,N,,Wesleyan Methodist Sunday School Union,N,0,0,"4,289",,N,,,,0,3023
 1894,Amelia Sophia Coates Young,F,Needs Must: A Novel,N,N,N,,"Osgood, McIlvaine",N,0,0,"4,290",,N,,,,0,2956
 1898,L. Gladstone,U,Neil Macleod: A Tale of Literary Life in London,N,N,N,,Hodder and Stoughton,N,0,0,"4,291",,N,,,,0,6242
@@ -4311,7 +4311,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1901,Jeanie Gwynne Bettany,F,No Vindication,N,N,N,,John Long,N,0,0,"4,316",,N,,,,0,1272
 1896,Eva Jameson,F,"No. 11, Chesterton Street: A Story for Mothers' Meetings",N,N,N,,S. P. C. K.,N,0,0,"4,317",,N,,,,0,1974
 1900,Jessie F. Armstrong,F,No. 6  Victoria Ward,N,N,N,,R. T. S.,N,0,0,"4,318",,N,,,,0,1228
-1901,Esmé Stuart,F,Nobler than Revenge,N,N,N,,John Long,N,0,0,"4,319",,N,,,,0,2019
+1901,EsmÃ© Stuart,F,Nobler than Revenge,N,N,N,,John Long,N,0,0,"4,319",,N,,,,0,2019
 1896,Netta Syrett,F,Nobody's Fault,N,N,N,,John Lane,N,0,0,"4,320",,N,,,,0,409
 1893,Margaret Wolfe Hungerford,F,Nora Creina,N,N,N,,F. V. White,N,0,0,"4,321",,N,,,,0,841
 1894,Frank Challice Constable,M,"Norman: or, Inherited Fate",N,N,N,,"Digby, Long",N,0,0,"4,322",,N,,,,0,5314
@@ -4332,7 +4332,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1897,Lady Helen Emily Craven,F,Notes of a Music-Lover,N,N,N,,Bentley,N,0,0,"4,337",,N,,,,0,1088
 1901,Barry Pain,M,Nothing Serious,N,N,N,,Black & White Publishing Co,N,0,0,"4,338",,N,,,,0,5958
 1900,William Romaine Paterson,M,Nude Souls,N,N,N,,William Heinemann,N,0,0,"4,339",,N,,,,0,3181
-1897,Rosa Caroline Praed,F,Nùlma,N,N,N,,Chatto and Windus,N,0,0,"4,340",,N,,,,0,339
+1897,Rosa Caroline Praed,F,NÃ¹lma,N,N,N,,Chatto and Windus,N,0,0,"4,340",,N,,,,0,339
 1898,Christabel Rose Coleridge,F,Number One,N,N,N,,S. P. C. K,N,0,0,"4,341",,N,,,,0,2607
 1900,Frances Mary Peard,F,Number One and Number Two,N,N,N,,Macmillan,N,0,0,"4,342",,N,,,,0,1677
 1897,Belton Otterburn,M,Nurse Adelaide: A Novel,N,N,N,,"Digby, Long",N,0,0,"4,343",,N,,,,0,5948
@@ -4408,7 +4408,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1891,David Christie Murray,M,Only a Shadow: A Novel,N,N,N,,Griffith and Farran,N,0,0,"4,413",,N,,,,0,5697
 1894,Joyce Emmerson Preston Muddock,M,Only a Woman's Heart: The Story of a Woman's Love,N,N,N,,George Newnes,N,0,0,"4,414",,N,,,,0,4258
 1897,Francis Henry Gribble,M,Only an Angel: A Story of Two Kreutzer Sonatas,N,N,N,,A. D. Innes,N,0,0,"4,415",,N,,,,0,5346
-1891,Isabel Don,F,Only Clärchen,N,N,N,,Eden,N,0,0,"4,416",,N,,,,0,1353
+1891,Isabel Don,F,Only ClÃ¤rchen,N,N,N,,Eden,N,0,0,"4,416",,N,,,,0,1353
 1892,Henrietta Eliza Vaughan Stannard,F,Only Human: A Novel,N,N,N,,F. V. White,N,0,0,"4,417",,N,,,,0,1428
 1893,George Robert Wynne,M,Only my Sister: A Story,N,N,N,,S. P. C. K.,N,0,0,"4,418",,N,,,,0,4979
 1900,Rosa Mulholland,F,Onora,N,N,N,,Grant Richards,N,0,0,"4,419",,N,,,,0,329
@@ -4478,7 +4478,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,Bithia Mary Croker,F,Peggy of the Bartons,N,N,N,,Methuen,N,0,0,"4,483",,N,,,,0,2734
 1891,Mrs. Conney,F,Peggy's Perversity,N,N,N,,Hurst and Blackett,N,0,0,"4,484",,N,,,,0,443
 1894,Mary Eleanor Freeman,M,Pembroke: A Novel,N,N,N,17428,"Osgood, McIlvaine",N,0,0,"4,485",,N,,,,0,4137
-1901,Grace L.  Keith Johnston,F,Penance,N,N,N,,Hodder and Stoughton,N,0,0,"4,486",,N,,,,0,1577
+1901,Grace L. Keith Johnston,F,Penance,N,N,N,,Hodder and Stoughton,N,0,0,"4,486",,N,,,,0,1577
 1897,William Tighe Hopkins,M,Pepita of the Pagoda,N,N,N,,Arrowsmith,N,0,0,"4,487",,N,,,,0,3155
 1892,Georg Moritz Ebers,M,Per Aspera: A Thorny Path,N,N,N,,Sampson Low,N,0,0,"4,488",,N,,,,0,5176
 1893,Mary Elizabeth Mann,F,Perdita: A Novel,N,N,N,,Bentley,N,0,0,"4,489",,N,,,,0,657
@@ -4506,7 +4506,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1896,Eleanor C. Price,F,Poor Little Mother,N,N,N,,S. P. C. K.,N,0,0,"4,511",,N,,,,0,2400
 1898,Kathleen Mannington Caffyn,F,Poor Max,N,N,N,,Hutchinson,N,0,0,"4,512",,N,,,,0,1127
 1897,Nina Cecelia Francesca Gorst,F,Possessed of Devils,N,N,N,,John Macqueen,N,0,0,"4,513",,N,,,,0,408
-1898,Mabel C.  Birchenough,F,Potsherds,N,N,N,,Cassell,N,0,0,"4,514",,N,,,,0,943
+1898,Mabel C. Birchenough,F,Potsherds,N,N,N,,Cassell,N,0,0,"4,514",,N,,,,0,943
 1900,Edith Greeves,F,Pranks and Prattles: Being the Children's Story Told by Themselves,N,N,N,,Robert Culley,N,0,0,"4,515",,N,,,,0,2450
 1900,Florence Sophia Montgomery,F,Prejudged,N,N,N,,Macmillan,N,0,0,"4,516",,N,,,,0,1788
 1891,Florence Warden,F,Pretty Miss Smith: A Novel,N,N,N,,William Heinemann,N,0,0,"4,517",,N,,,,0,1773
@@ -4741,7 +4741,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1897,Emma Elliot,F,Stapleton's Luck,N,N,N,,Bentley,N,0,0,"4,746",,N,,,,0,2131
 1897,Louisa Caroline Silke,F,Steadfast and True: A Tale of the Huguenots,N,N,N,,R. T. S.,N,0,0,"4,747",,N,,,,0,998
 1897,Francesca Maria Steele,F,Stella's Story: A Venetian Tale,N,N,N,,Virtue,N,0,0,"4,748",,N,,,,0,1661
-1896,Margaret Roberts,F,Stéphanie's Children,N,N,N,,National Society's Depository,N,0,0,"4,749",,N,,,,0,879
+1896,Margaret Roberts,F,StÃ©phanie's Children,N,N,N,,National Society's Depository,N,0,0,"4,749",,N,,,,0,879
 1898,Joseph Henry Philpot,M,Stephen Brent,N,N,N,,Archibald Constable,N,0,0,"4,750",,N,,,,0,4324
 1901,Julian Russell Sturgis,M,Stephen Calinari,N,N,N,,Archibald Constable,N,0,0,"4,751",,N,,,,0,4239
 1891,Mary Anne Needell,F,Stephen Ellicott's Daughter: A Novel,N,N,N,,Frederick Warne,N,0,0,"4,752",,N,,,,0,747
@@ -4791,7 +4791,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,Archie Armstrong,M,Tales of the Temple and Elsewhere,N,N,N,,St. James' Gazette Office,N,0,0,"4,796",,N,,,,0,6030
 1901,Mary Williamina Findlater,F,Tales that are Told,N,N,N,,Methuen,N,0,0,"4,797",,N,,,,0,528
 1895,Walter Bradford Woodgate,M,Tandem: A Novel,N,N,N,,Hurst and Blackett,N,0,0,"4,798",,N,,,,0,3469
-1897,Esmé Stuart,F,Tangled Threads,N,N,N,,Partridge,N,0,0,"4,799",,N,,,,0,2020
+1897,EsmÃ© Stuart,F,Tangled Threads,N,N,N,,Partridge,N,0,0,"4,799",,N,,,,0,2020
 1901,Peter Fraser,M,Tatty: A Study of a Young Girl,N,N,N,,Anthony Treherne,N,0,0,"4,800",,N,,,,0,3980
 1899,Bessie Marchant,F,Tell-Tale-Tit,N,N,N,,Robert Culley,N,0,0,"4,801",,N,,,,0,2754
 1893,Constance Annie Mary Cotterell,F,Tempe: A Novel,N,N,N,,Bentley,N,0,0,"4,802",,N,,,,0,2565
@@ -4824,7 +4824,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,Charles John Cutcliffe Hyne,M,The Adventures of an Engineer,N,N,N,,James Bowden,N,0,0,"4,829",,N,,,,0,5801
 1900,Katharine Tynan,F,The Adventures of Carlo,N,N,N,,Blackie,N,0,0,"4,830",,N,,,,0,1146
 1892,Mary Eliza Bramston,F,The Adventures of Denis,N,N,N,,National Society's Depository,N,0,0,"4,831",,N,,,,0,689
-1898,Silas Weir Mitchell,M,"The Adventures of François: Foundling, Thief, Juggler, and Fencing-Master during the French Revolution",N,N,N,43241,Macmillan,N,0,0,"4,832",,N,,,,0,3680
+1898,Silas Weir Mitchell,M,"The Adventures of FranÃ§ois: Foundling, Thief, Juggler, and Fencing-Master during the French Revolution",N,N,N,43241,Macmillan,N,0,0,"4,832",,N,,,,0,3680
 1901,Rudolph Chambers Lehmann,M,The Adventures of Picklock Holes,N,N,N,,"Bradbury, Agnew and Co",N,0,0,"4,833",,N,,,,0,3780
 1901,Helen Elrington,F,The Adventures of Roly,N,N,N,,Blackie,N,0,0,"4,834",,N,,,,0,1499
 1900,Joyce Emmerson Preston Muddock,M,"The Adventures of Tyler Tatlock, Private Detective",N,N,N,,Chatto and Windus,N,0,0,"4,835",,N,,,,0,4263
@@ -4833,7 +4833,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1892,Noel Dene,U,The Aftermath,N,N,N,,Hurst and Blackett,N,0,0,"4,838",,N,,,,0,6225
 1900,Compton Reade,M,The Aftertaste,N,N,N,,Greening and Co,N,0,0,"4,839",,N,,,,0,5734
 1891,Frederick James Gould,M,The Agnostic Island,N,N,N,,Watts & Co,N,0,0,"4,840",,N,,,,0,5215
-1901,F. F.  Montresor,F,The Alien: A Story of Middle Age,N,N,N,,Methuen,N,0,0,"4,841",,N,,,,0,1861
+1901,F. F. Montresor,F,The Alien: A Story of Middle Age,N,N,N,,Methuen,N,0,0,"4,841",,N,,,,0,1861
 1899,Mamie Bowles,F,The Amazing Lady,N,N,N,,William Heinemann,N,0,0,"4,842",,N,,,,0,916
 1898,Olive Mary Birrell,F,The Ambition of Judith,N,N,N,,"Smith, Elder",N,0,0,"4,843",,N,,,,0,392
 1897,Henrietta Keddie,F,The American Cousins: A Story of Shakespeare's Country,N,N,N,,"Digby, Long",N,0,0,"4,844",,N,,,,0,1397
@@ -4945,7 +4945,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1899,Claud Nicholson,U,The Child Abel,N,N,N,,George Allen,N,0,0,"4,950",,N,,,,0,6296
 1898,Marion Andrews,F,The Child of the Lighthouse: A Tale of the Great War,N,N,N,,"Wells, Gardner, Darton",N,0,0,"4,951",,N,,,,0,789
 1894,Margaret Scott Haycraft,F,The Children of Cherryholme,N,N,N,,Partridge,N,0,0,"4,952",,N,,,,0,865
-1899,Hélène E. A. Gingold,F,The Chillingfield Chronicles,N,N,N,,T. Fisher Unwin,N,0,0,"4,953",,N,,,,0,1451
+1899,HÃ©lÃ¨ne E. A. Gingold,F,The Chillingfield Chronicles,N,N,N,,T. Fisher Unwin,N,0,0,"4,953",,N,,,,0,1451
 1891,Sir Joseph Compton Rickett,M,The Christ that is to Be: A Latter-Day Romance,N,N,N,,Chapman and Hall,N,0,0,"4,954",,N,,,,0,3633
 1897,Joyce Emmerson Preston Muddock,M,The Chronicles of Michael Danevitch of the Russian Secret Service,N,N,N,,Chatto and Windus,N,0,0,"4,955",,N,,,,0,4264
 1892,Evelyn Ward Everett Green,F,The Church and the King: A Tale of England in the Days of Henry VIII,N,N,N,,Nelson and Sons,N,0,0,"4,956",,N,,,,0,1946
@@ -4986,7 +4986,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,Frederic Breton,M,The Crime of Maunsell Grange: A Novel,N,N,N,,"Osgood, McIlvaine",N,0,0,"4,991",,N,,,,0,5239
 1901,Gertrude Warden,F,The Crime of Monte Carlo,N,N,N,,William Stevens,N,0,0,"4,992",,N,,,,0,1592
 1901,Fergus Hume,M,The Crime of the Crystal,N,N,N,,"Digby, Long",N,0,0,"4,993",,N,,,,0,5415
-1898,Ménie Muriel Dowie,F,The Crook of the Bough,N,N,N,,Methuen,N,0,0,"4,994",,N,,,,0,480
+1898,MÃ©nie Muriel Dowie,F,The Crook of the Bough,N,N,N,,Methuen,N,0,0,"4,994",,N,,,,0,480
 1892,Charlotte Mary Yonge,F,"The Cross Roads: or, A Choice in Life. A Story",N,N,N,,National Society's Depository,N,0,0,"4,995",,N,,,,0,2636
 1900,Richard Reardon,M,The Crowning of Gloria,N,N,N,,John Long,N,0,0,"4,996",,N,,,,0,3882
 1894,William Joseph Cosens Lancaster,M,"The Cruise of the ""Esmeralda""",N,N,N,25817,S. P. C. K.,N,0,0,"4,997",,N,,,,0,3244
@@ -5003,7 +5003,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1899,Nat Gould,M,The Dark Horse,N,N,N,,Routledge,N,0,0,"5,008",,N,,,,0,4069
 1900,Mrs. Lodge,F,The Darlingfords: A Novel,N,N,N,,"Digby, Long",N,0,0,"5,009",,N,,,,0,432
 1892,George Alfred Henty,M,The Dash for Khartoum: A Tale of the Nile Expedition,N,N,N,21986,Blackie,N,0,0,"5,010",,N,,,,0,5161
-1894,Arthur Paterson,M,The Daughter of the Nez Percés: A Novel,N,N,N,,Bentley,N,0,0,"5,011",,N,,,,0,5992
+1894,Arthur Paterson,M,The Daughter of the Nez PercÃ©s: A Novel,N,N,N,,Bentley,N,0,0,"5,011",,N,,,,0,5992
 1897,J. C. Spence,U,The Dawn of Civilization,N,N,N,,Watts & Co.,N,0,0,"5,012",,N,,,,0,6254
 1899,Silas Kitto Hocking,M,The Day of Recompense,N,N,N,,Frederick Warne,N,0,0,"5,013",,N,,,,0,3691
 1896,Charles Dudley Lampen,M,The Dead Prior,N,N,N,,Elliot Stock,N,0,0,"5,014",,N,,,,0,5869
@@ -5068,7 +5068,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,William Carleton Dawe,M,The Emu's Head: A Chronicle of Dead Man's Flat,N,N,N,,Ward and Downey,N,0,0,"5,073",,N,,,,0,3406
 1898,Charles Lewis Hind,M,The Enchanted Stone: A Romance,N,N,N,,A. and C. Black,N,0,0,"5,074",,N,,,,0,5784
 1891,Eden Phillpotts,M,The End of a Life,N,N,N,,Arrowsmith,N,0,0,"5,075",,N,,,,0,5657
-1901,A.  Lincoln Green,M,"The End of an Epoch: Being the Personal Narrative of Adam Godwin, the Survivor",N,N,N,,Blackwood,N,0,0,"5,076",,N,,,,0,6186
+1901,A. Lincoln Green,M,"The End of an Epoch: Being the Personal Narrative of Adam Godwin, the Survivor",N,N,N,,Blackwood,N,0,0,"5,076",,N,,,,0,6186
 1894,Eliza Margaret von Booth,F,The Ending of My Day: The Story of a Stormy Life,N,N,N,,F. V. White,N,0,0,"5,077",,N,,,,0,2343
 1896,Edward Herbert Cooper,M,The Enemies,N,N,N,,Archibald Constable,N,0,0,"5,078",,N,,,,0,5573
 1901,Edward Herbert Cooper,M,The Eternal Choice: A Novel,N,N,N,,C. Arthur Pearson,N,0,0,"5,079",,N,,,,0,5574
@@ -5118,7 +5118,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1894,Colin Middleton,M,The Fool of Destiny,N,N,N,,Hurst and Blackett,N,0,0,"5,123",,N,,,,0,5736
 1893,Mary H. Folkard,F,The Fool of Fate,N,N,N,,"Ward, Lock",N,0,0,"5,124",,N,,,,0,602
 1900,Charlotte Elizabeth Riddell,F,The Footfall of Fate,N,N,N,,F. V. White,N,0,0,"5,125",,N,,,,0,2646
-1896,Esmé Stuart,F,The Footsteps of Fortune,N,N,N,,James Nisbet,N,0,0,"5,126",,N,,,,0,2021
+1896,EsmÃ© Stuart,F,The Footsteps of Fortune,N,N,N,,James Nisbet,N,0,0,"5,126",,N,,,,0,2021
 1893,William Henry Wilkins,M,The Forbidden Sacrifice,N,N,N,,Hurst and Blackett,N,0,0,"5,127",,N,,,,0,3268
 1898,Maurice Henry Hewlett,M,The Forest Lovers: A Romance,N,N,N,8934,Macmillan,N,0,0,"5,128",,N,,,,0,4118
 1898,Susan Frances Harrison,F,The Forest of Bourg-Marie,N,N,N,,Edward Arnold,N,0,0,"5,129",,N,,,,0,246
@@ -5162,7 +5162,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1901,James Maclaren Cobban,M,The Golden Tooth,N,N,N,,"Digby, Long",N,0,0,"5,167",,N,,,,0,4500
 1901,Fergus Hume,M,The Golden Wang-ho: A Sensational Story,N,N,N,,John Long,N,0,0,"5,168",,N,,,,0,5417
 1898,George Griffith,M,The Gold-Finder,N,N,N,,F. V. White,N,0,0,"5,169",,N,,,,0,5080
-1893,Kalman Mikszath,M,The Good People of Palöcz,N,N,N,,Dean and Son,N,0,0,"5,170",,N,,,,0,4229
+1893,Kalman Mikszath,M,The Good People of PalÃ¶cz,N,N,N,,Dean and Son,N,0,0,"5,170",,N,,,,0,4229
 1900,S. L. G. H.,U,The Gospel of a Life: A Story,N,N,N,,S. P. C. K.,N,0,0,"5,171",,N,,,,0,6207
 1892,George Manville Fenn,M,The Grand Chaco: A Boy's Adventures in an Unknown Land,N,N,N,,Partridge,N,0,0,"5,172",,N,,,,0,5051
 1895,Cecily Sidgwick,F,The Grasshoppers,N,N,N,,A. and C. Black,N,0,0,"5,173",,N,,,,0,2659
@@ -5262,7 +5262,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,L. B. Walford,F,The Intruders,N,N,N,,Longman,N,0,0,"5,267",,N,,,,0,1119
 1901,Louis Tracy,M,The Invaders: A Story of Britain Peril,N,N,N,,C. Arthur Pearson,N,0,0,"5,268",,N,,,,0,4183
 1895,David Christie Murray,M,The Investigations of John Pym,N,N,N,,F. V. White,N,0,0,"5,269",,N,,,,0,5700
-1899,Robert Cunninghame Graham,M,The Ipané,N,N,N,,T. Fisher Unwin,N,0,0,"5,270",,N,,,,0,3858
+1899,Robert Cunninghame Graham,M,The IpanÃ©,N,N,N,,T. Fisher Unwin,N,0,0,"5,270",,N,,,,0,3858
 1892,Charlotte Maria Tucker,F,The Iron Chain and the Golden,N,N,N,,Nelson and Sons,N,0,0,"5,271",,N,,,,0,2641
 1897,Robert Harborough Sherard,M,The Iron Cross: A Story,N,N,N,,C. Arthur Pearson,N,0,0,"5,272",,N,,,,0,3852
 1898,William Gordon Stables,M,The Island of Gold: A Sailor's Yarn,N,N,N,37588,Nelson and Sons,N,0,0,"5,273",,N,,,,0,3313
@@ -5294,8 +5294,8 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1896,Elizabeth Harcourt Mitchell,F,The King's Stirrup: A Tale of the Forest,N,N,N,,S. P. C. K.,N,0,0,"5,299",,N,,,,0,2301
 1900,Edward Arthur Haggard,M,"The Kiss of Isis, and The Mystery of Castlebourne",N,N,N,,Hurst and Blackett,N,0,0,"5,300",,N,,,,0,5609
 1898,Ernest Glanville,M,"The Kloof Bride: or, The Lover's Quest",N,N,N,,Methuen,N,0,0,"5,301",,N,,,,0,5483
-1898,R. D.  Chetwode,U,The Knight of the Golden Chain,N,N,N,,C. Arthur Pearson,N,0,0,"5,302",,N,,,,0,6220
-1898,Esmé Stuart,F,The Knights of Rosemullion,N,N,N,,National Society's Depository,N,0,0,"5,303",,N,,,,0,2022
+1898,R. D. Chetwode,U,The Knight of the Golden Chain,N,N,N,,C. Arthur Pearson,N,0,0,"5,302",,N,,,,0,6220
+1898,EsmÃ© Stuart,F,The Knights of Rosemullion,N,N,N,,National Society's Depository,N,0,0,"5,303",,N,,,,0,2022
 1897,George Griffith,M,The Knights of the White Rose,N,N,N,,F. V. White,N,0,0,"5,304",,N,,,,0,5083
 1897,F. Emily Phillips,F,The Knight's Tale,N,N,N,,Blackwood,N,0,0,"5,305",,N,,,,0,1864
 1893,Charles Allen Clarke,M,The Knobstick: A Story of Love and Labour,N,N,N,,Abel Heywood,N,0,0,"5,306",,N,,,,0,5875
@@ -5363,7 +5363,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1900,Florence Warden,F,The Love that Lasts,N,N,N,,"Ward, Lock",N,0,0,"5,368",,N,,,,0,1779
 1892,Sarah Doudney,F,The Love-Dream of Gatty Fenning,N,N,N,,Hutchinson,N,0,0,"5,369",,N,,,,0,281
 1896,Francis Henry Gribble,M,The Lower Life,N,N,N,,A. D. Innes,N,0,0,"5,370",,N,,,,0,5347
-1900,Arthur St.  John Adcock,M,The Luck of Private Foster: A Romance of Love and War,N,N,N,,Hodder and Stoughton,N,0,0,"5,371",,N,,,,0,5983
+1900,Arthur St. John Adcock,M,The Luck of Private Foster: A Romance of Love and War,N,N,N,,Hodder and Stoughton,N,0,0,"5,371",,N,,,,0,5983
 1898,John Arthur Barry,M,The Luck of the Native-Born,N,N,N,,John Macqueen,N,0,0,"5,372",,N,,,,0,4452
 1896,Mary Jemima Albert,F,The Luckiest Man in the World: A Novel,N,N,N,,Simpkin,N,0,0,"5,373",,N,,,,0,582
 1896,Francis Charles Philips,M,The Luckiest of Three: A Novel,N,N,N,,F. V. White,N,0,0,"5,374",,N,,,,0,5367
@@ -5393,13 +5393,13 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1896,James Ainscough,M,The Man who Disappeared: A Lancashire Story,N,N,N,,Bentley,N,0,0,"5,398",,N,,,,0,4583
 1901,John Mackie,M,The Man who Forgot: A Strange Experience,N,N,N,,Jarrold and Son,N,0,0,"5,399",,N,,,,0,4385
 1899,William Carleton Dawe,M,The Mandarin,N,N,N,,Hutchinson,N,0,0,"5,400",,N,,,,0,3408
-1899,George Henry Roqué Dabbs,M,The Manor Inn: A Tale of a Lost Impression,N,N,N,,Charles William Deacon,N,0,0,"5,401",,N,,,,0,5066
+1899,George Henry RoquÃ© Dabbs,M,The Manor Inn: A Tale of a Lost Impression,N,N,N,,Charles William Deacon,N,0,0,"5,401",,N,,,,0,5066
 1901,Tubal Cain,U,The Manse Gate,N,N,N,,Swan Sonnenschein,N,0,0,"5,402",,N,,,,0,6198
 1900,M. P. Shiel,M,The Man-Stealers: An Incident in the Life of the Iron Duke,N,N,N,,Hutchinson,N,0,0,"5,403",,N,,,,0,4169
 1900,Sir William Magnay,M,The Man-Trap,N,N,N,,"Smith, Elder",N,0,0,"5,404",,N,,,,0,3623
 1895,R. D. Chetwode,U,The Marble City: Being the Strange Adventures of Three Boys,N,N,N,,Sampson Low,N,0,0,"5,405",,N,,,,0,6218
 1900,Gertrude Dunn,F,The Marble Face,N,N,N,,"Smith, Elder",N,0,0,"5,406",,N,,,,0,1611
-1899,Lilian M.  Quiller-Couch,F,The Marble King: A Mystery,N,N,N,,Arrowsmith,N,0,0,"5,407",,N,,,,0,1072
+1899,Lilian M. Quiller-Couch,F,The Marble King: A Mystery,N,N,N,,Arrowsmith,N,0,0,"5,407",,N,,,,0,1072
 1897,Edward Herbert Cooper,M,The Marchioness against the County,N,N,N,,Chapman and Hall,N,0,0,"5,408",,N,,,,0,5575
 1900,Theophila North,F,The Marriage of True Minds,N,N,N,,Grant Richards,N,0,0,"5,409",,N,,,,0,210
 1900,Henrietta Eliza Vaughan Stannard,F,The Married Miss Binks: A Novel,N,N,N,,F. V. White,N,0,0,"5,410",,N,,,,0,1435
@@ -5423,7 +5423,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,E. Livingston Prescott,F,The Measure of a Man,N,N,N,,James Nisbet,N,0,0,"5,428",,N,,,,0,2492
 1892,Elizabeth Thomasina Meade,F,The Medicine Lady,N,N,N,,Cassell,N,0,0,"5,429",,N,,,,0,2255
 1895,Susan Rowley Richmond Lee,F,The Medlicotts: An Uneventful Family Chronicle,N,N,N,,Jarrold and Son,N,0,0,"5,430",,N,,,,0,242
-1892,Arthur William à'Beckett,M,The Member for Wrottenborough: Passage from his Life in Parliament,N,N,N,,Sampson Low,N,0,0,"5,431",,N,,,,0,5973
+1892,Arthur William Ã 'Beckett,M,The Member for Wrottenborough: Passage from his Life in Parliament,N,N,N,,Sampson Low,N,0,0,"5,431",,N,,,,0,5973
 1898,Julie Bosville Chetwynd,F,The Member's Wife: A Novel,N,N,N,,C. Arthur Pearson,N,0,0,"5,432",,N,,,,0,1183
 1896,William Oliver Greener,M,The Men of Harlech,N,N,N,,Ward and Downey,N,0,0,"5,433",,N,,,,0,3195
 1894,Edmund Downey,M,The Merchant of Killogue: A Munster Tale,N,N,N,,William Heinemann,N,0,0,"5,434",,N,,,,0,5620
@@ -5541,7 +5541,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1899,Cosmo Clarke,M,The Portrait of a Woman,N,N,N,,F. V. White,N,0,0,"5,546",,N,,,,0,5726
 1900,George Lacy Hillier,M,The Potterers' Club: A Cycling Novel,N,N,N,,Gale & Polden,N,0,0,"5,547",,N,,,,0,5060
 1896,Lilian Rowland Brown,F,The Power of the Dog: A Novel,N,N,N,,Jarrold and Son,N,0,0,"5,548",,N,,,,0,1068
-1894,Esmé Stuart,F,The Power of the Past,N,N,N,,Bentley,N,0,0,"5,549",,N,,,,0,2023
+1894,EsmÃ© Stuart,F,The Power of the Past,N,N,N,,Bentley,N,0,0,"5,549",,N,,,,0,2023
 1901,Herbert Flowerdew,M,"The Presumption of Stanley Hay, M. P.",N,N,N,,Frederick Warne,N,0,0,"5,550",,N,,,,0,4667
 1900,Edgar Hewitt,M,The Prettiness of Fools,N,N,N,,Greening and Co,N,0,0,"5,551",,N,,,,0,5632
 1900,William Clark Russell,M,The Pretty Polly: A Voyage of Incident,N,N,N,,Chatto and Windus,N,0,0,"5,552",,N,,,,0,3390
@@ -5611,7 +5611,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1896,Ernest William Hornung,M,The Rogue's March: A Romance,N,N,N,,Cassell,N,0,0,"5,616",,N,,,,0,5467
 1899,George Frederick Underhill,M,"The Rogues of Society, and The Doctor of Duddlestone",N,N,N,,Dipose,N,0,0,"5,617",,N,,,,0,5093
 1898,Edwin William Pugh,M,The Rogues' Paradise: An Extravaganza,N,N,N,,James Bowden,N,0,0,"5,618",,N,,,,0,5513
-1892,Rosa Caroline Praed,F,The Romance of a Châlet: A Story,N,N,N,,F. V. White,N,0,0,"5,619",,N,,,,0,341
+1892,Rosa Caroline Praed,F,The Romance of a ChÃ¢let: A Story,N,N,N,,F. V. White,N,0,0,"5,619",,N,,,,0,341
 1891,Matilda Barbara Betham-Edwards,F,"The Romance of a French Parsonage: or, The Double Sacrifice",N,N,N,,Chapman and Hall,N,0,0,"5,620",,N,,,,0,523
 1898,Fanny Emily Penny,F,The Romance of a Nautch Girl: A Novel,N,N,N,,Swan Sonnenschein,N,0,0,"5,621",,N,,,,0,1852
 1895,Sidney Pickering,M,The Romance of a Picture,N,N,N,,Archibald Constable,N,0,0,"5,622",,N,,,,0,3700
@@ -5695,7 +5695,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1894,Peter Hay Hunter,M,The Silver Bullet,N,N,N,,Oliphant,N,0,0,"5,700",,N,,,,0,3979
 1900,A. Cunnick Inchbold,F,The Silver Dove,N,N,N,,Hutchinson,N,0,0,"5,701",,N,,,,0,3134
 1898,Edith Oenome Somerville,F,The Silver Fox,N,N,N,,Lawrence and Bullen,N,0,0,"5,702",,N,,,,0,2424
-1891,Esmé Stuart,F,The Silver Mine: An Underground Story,N,N,N,,National Society's Depository,N,0,0,"5,703",,N,,,,0,2024
+1891,EsmÃ© Stuart,F,The Silver Mine: An Underground Story,N,N,N,,National Society's Depository,N,0,0,"5,703",,N,,,,0,2024
 1898,George Manville Fenn,M,The Silver Salvors: A Tale,N,N,N,,S. P. C. K,N,0,0,"5,704",,N,,,,0,5052
 1891,Frank Frankfort Moore,M,The Silver Sickle,N,N,N,,Griffith and Farran,N,0,0,"5,705",,N,,,,0,5308
 1893,Sara Jeanette Duncan,F,The Simple Adventures of a Memsahib,N,N,N,,Chatto and Windus,N,0,0,"5,706",,N,,,,0,293
@@ -5713,7 +5713,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1893,Isabella Banks,F,The Slowly Grinding Mills,N,N,N,,Griffith and Farran,N,0,0,"5,718",,N,,,,0,1331
 1897,Selina Bunbury,F,The Smuggler's Cave,N,N,N,,R. T. S.,N,0,0,"5,719",,N,,,,0,264
 1899,Paul Creswick,M,The Smugglers of Barnard's Head,N,N,N,,Ernest Nister,N,0,0,"5,720",,N,,,,0,4010
-1901,Hamilton Aidé,M,The Snares of the World,N,N,N,,John Murray,N,0,0,"5,721",,N,,,,0,4883
+1901,Hamilton AidÃ©,M,The Snares of the World,N,N,N,,John Murray,N,0,0,"5,721",,N,,,,0,4883
 1899,Henrietta Eliza Vaughan Stannard,F,The Soldier and the Lady: A Novel,N,N,N,,F. V. White,N,0,0,"5,722",,N,,,,0,1442
 1901,George Alfred Henty,M,The Sole Survivors,N,N,N,,W.  & R.  Chambers,N,0,0,"5,723",,N,,,,0,5165
 1900,Gertrude Hollis,F,The Son of Aella: A Story of the Conversion of Northumbria,N,N,N,,S. P. C. K.,N,0,0,"5,724",,N,,,,0,1604
@@ -5776,13 +5776,13 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1899,Gertrude Dunn,F,The Strange Story of Hester Wynne,N,N,N,,"Smith, Elder",N,0,0,"5,781",,N,,,,0,1612
 1896,Henrietta Eliza Vaughan Stannard,F,The Strange Story of my Life: A Novel,N,N,N,,F. V. White,N,0,0,"5,782",,N,,,,0,1444
 1894,Henrietta Eliza Vaughan Stannard,F,The Stranger Woman,N,N,N,,F. V. White,N,0,0,"5,783",,N,,,,0,1445
-1900,Esmé Stuart,F,The Strength of Straw,N,N,N,,John Long,N,0,0,"5,784",,N,,,,0,2025
-1898,Esmé Stuart,F,The Strength of Two: A Novel,N,N,N,,F. V. White,N,0,0,"5,785",,N,,,,0,2026
+1900,EsmÃ© Stuart,F,The Strength of Straw,N,N,N,,John Long,N,0,0,"5,784",,N,,,,0,2025
+1898,EsmÃ© Stuart,F,The Strength of Two: A Novel,N,N,N,,F. V. White,N,0,0,"5,785",,N,,,,0,2026
 1900,Helen Shipton,F,The Strong God Circumstance,N,N,N,,Methuen,N,0,0,"5,786",,N,,,,0,1469
 1896,Charles John Cutcliffe Hyne,M,The Stronger Hand,N,N,N,,Neville Beeman,N,0,0,"5,787",,N,,,,0,5804
 1895,Evelyn Ward Everett Green,F,The Sunny Side of the Street: A Story of Patient Waiting,N,N,N,,R. T. S.,N,0,0,"5,788",,N,,,,0,1958
 1897,Berman Paul Neuman,M,The Supplanter,N,N,N,,Methuen,N,0,0,"5,789",,N,,,,0,5930
-1901,E. Philllips Oppenheim,M,The Survivor,N,N,N,17040,"Ward, Lock",N,0,0,"5,790",,N,,,,0,5662
+1901,E. Phillips Oppenheim,M,The Survivor,N,N,N,17040,"Ward, Lock",N,0,0,"5,790",,N,,,,0,5662
 1897,James Hume Nisbet,M,The Swampers: A Romance of the Westralian Goldfields,N,N,N,,F. V. White,N,0,0,"5,791",,N,,,,0,4555
 1900,James Blythe Patton,M,The Sway of Philippa,N,N,N,,George Allen,N,0,0,"5,792",,N,,,,0,4573
 1899,Henry Herman,M,The Sword of Fate,N,N,N,,Greening and Co,N,0,0,"5,793",,N,,,,0,4748
@@ -6017,7 +6017,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1898,Jessie F. Armstrong,F,Through Rosamund's Eyes: A Story of the Seventeenth Century,N,N,N,,Jarrold and Son,N,0,0,"6,022",,N,,,,0,1230
 1892,Joseph Smith Fletcher,M,Through Storm and Stress: Being a History of the Remarkable Adventures of Richard Fletcher of York,N,N,N,,W. & R. Chambers,N,0,0,"6,023",,N,,,,0,4303
 1897,Emma Leslie,F,Through Storm to Calm: A Tale of the Last Century,N,N,N,,R. T. S.,N,0,0,"6,024",,N,,,,0,2125
-1892,Esmé Stuart,F,Through the Flood,N,N,N,,W. & R. Chambers,N,0,0,"6,025",,N,,,,0,2027
+1892,EsmÃ© Stuart,F,Through the Flood,N,N,N,,W. & R. Chambers,N,0,0,"6,025",,N,,,,0,2027
 1892,Katharine Elizabeth De Mattos,F,Through the Red-Litten Windows and The Old River House,N,N,N,,T. Fisher Unwin,N,0,0,"6,026",,N,,,,0,1159
 1896,George Alfred Henty,M,Through the Russian Snows: A Story of Napoleon's Retreat from Moscow,N,N,N,30457,Blackie,N,0,0,"6,027",,N,,,,0,5167
 1894,George Alfred Henty,M,Through the Sikh War: A Tale of the Conquest of the Punjaub,N,N,N,,Blackie,N,0,0,"6,028",,N,,,,2,98
@@ -6106,7 +6106,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1892,Matilda Barbara Betham-Edwards,F,Two Aunts and a Nephew,N,N,N,,Henry,N,0,0,"6,111",,N,,,,0,524
 1896,James Macdonald Oxley,M,Two Boy Tramps,N,N,N,,W. & R. Chambers,N,0,0,"6,112",,N,,,,0,4523
 1901,Mrs. S.G. Arnold,F,Two Busybodies: A Chronicle of the Adventures of Hilary and John Chippendale Craven,N,N,N,,T. Fisher Unwin,N,0,0,"6,113",,N,,,,0,428
-1895,Edgar T. Pickering,M,Two Gallant Rebels: A Story of the Great Struggle in La Vendée,N,N,N,,Blackie,N,0,0,"6,114",,N,,,,0,5631
+1895,Edgar T. Pickering,M,Two Gallant Rebels: A Story of the Great Struggle in La VendÃ©e,N,N,N,,Blackie,N,0,0,"6,114",,N,,,,0,5631
 1899,Jennie Chappell,F,Two Girls and a Dog,N,N,N,,Blackie,N,0,0,"6,115",,N,,,,0,1265
 1901,Jean Delaire,F,Two Girls and a Dream,N,N,N,,"Ward, Lock",N,0,0,"6,116",,N,,,,0,1299
 1891,Sara Jeanette Duncan,F,Two Girls on a Barge,N,N,N,,Chatto and Windus,N,0,0,"6,117",,N,,,,0,295
@@ -6167,7 +6167,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1896,Emma Elliot,F,Up in Arms,N,N,N,,Bentley,N,0,0,"6,172",,N,,,,0,2133
 1900,Edward Shirley,M,Up the Creeks: A Tale of Adventure in West Africa,N,N,N,,Nelson and Sons,N,0,0,"6,173",,N,,,,0,5538
 1896,Judith Vandeleur,F,Val: A Story of the Tivyside,N,N,N,,Hurst and Blackett,N,0,0,"6,174",,N,,,,0,1194
-1899,Daisy Hugh Pryce,F,Valda Hânem: The Romance of a Turkish Harîm,N,N,N,,Macmillan,N,0,0,"6,175",,N,,,,0,2540
+1899,Daisy Hugh Pryce,F,Valda HÃ¢nem: The Romance of a Turkish HarÃ®m,N,N,N,,Macmillan,N,0,0,"6,175",,N,,,,0,2540
 1893,James Hume Nisbet,M,Valdmer the Viking: A Romance of the Eleventh Century by Sea and Land,N,N,N,,Hutchinson,N,0,0,"6,176",,N,,,,0,4556
 1897,Susan Rowley Richmond Lee,F,Valentine: A Story of Ideals,N,N,N,,Jarrold and Son,N,0,0,"6,177",,N,,,,0,245
 1898,William Livingston Alden,M,Van Wagener's Ways,N,N,N,,C. Arthur Pearson,N,0,0,"6,178",,N,,,,0,3209
@@ -6189,7 +6189,7 @@ Year,Name,Gender,Title,Penguin Classics Edition,Oxford World's Classics Edition,
 1895,Bithia Mary Croker,F,"Village Tales and Jungle Tragedies, etc.",N,N,N,,Chatto and Windus,N,0,0,"6,194",,N,,,,0,2737
 1891,Quinton,U,Violin and Vendetta: A Venetian Story,N,N,N,,Arrowsmith,N,0,0,"6,195",,N,,,,0,6221
 1901,William Sylvester Walker,M,Virgin Gold: A Story of Adventure,N,N,N,,John Long,N,0,0,"6,196",,N,,,,0,3164
-1892,Esmé Stuart,F,Virginie's Husband: A Novel,N,N,N,,A. D. Innes,N,0,0,"6,197",,N,,,,0,2028
+1892,EsmÃ© Stuart,F,Virginie's Husband: A Novel,N,N,N,,A. D. Innes,N,0,0,"6,197",,N,,,,0,2028
 1901,Richard Orton Prowse,M,Voysey,N,N,N,,William Heinemann,N,0,0,"6,198",,N,,,,0,3893
 1899,Blanche Willis Howard,F,Vroni: The Weaver's Heart's Dearest,N,N,N,,Frederick Warne,N,0,0,"6,199",,N,,,,0,2712
 1893,Annie Jane Harvey,F,"Vyvyans: or, The Murder in the Rue Bellechasse",N,N,N,,Chapman and Hall,N,0,0,"6,200",,N,,,,0,2871
