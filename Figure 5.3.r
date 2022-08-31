@@ -37,4 +37,4 @@ plot2
 
 # Exporting the plot
 
-ggsave(file = "Raw plots/Figure 6.1 (raw).pdf", plot = plot2, dpi = 300)
+ggsave(file = "Raw plots/Figure 5.3 (raw).pdf", plot = plot2, dpi = 300)
