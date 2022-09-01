@@ -1,6 +1,6 @@
 #### Film adaptations of Dracula and the Beetle####
 
-# Loading in the data (for more information about the data collection process, see the CHR2020 repository on my Github profile)
+# Loading in the data (the data in the Dracula adaptations dataset was taken from Holte (1997, pp. 136-142))
 
 library(ggExtra)
 library(ggrepel)
